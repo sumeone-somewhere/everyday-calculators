@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **243+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **245+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -38,11 +38,12 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🚗 Auto](#auto) — [4 calculators](https://ganak.app/calculators/category/auto/)
 - [✈️ Travel](#travel) — [2 calculators](https://ganak.app/calculators/category/travel/)
 - [🎲 Fun](#fun) — [3 calculators](https://ganak.app/calculators/category/fun/)
-- [🔮 Spirituality](#spirituality) — [15 calculators](https://ganak.app/calculators/category/spirituality/)
+- [🔮 Spirituality](#spirituality) — [16 calculators](https://ganak.app/calculators/category/spirituality/)
 - [🎯 Probability](#probability) — [2 calculators](https://ganak.app/calculators/category/probability/)
 - [👗 Styling](#styling) — [8 calculators](https://ganak.app/calculators/category/styling/)
 - [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [6 calculators](https://ganak.app/calculators/category/others/)
+- [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
 
 ---
 
@@ -1004,6 +1005,10 @@ Free numerology calculator. Get your Life Path, Expression, Soul Urge, Personali
 
 Free rising sign calculator. Find your ascendant zodiac sign based on birth date, time, and location. Discover your outward personality, chart ruler, and how others perceive you. Supports Tropical and Sidereal zodiac systems. Shows all possible rising signs if birth time is unknown.
 
+### 🌐 [Sade Sati Calculator](https://ganak.app/calculators/sade-sati-calculator/)
+
+Free Sade Sati calculator. Find your Shani Sade Sati periods, current phase, and exact dates from your date of birth. Instant results with phase breakdown, Ashtama Sani check, Kandaka Sani detection, and Moon sign analysis. Powered by NASA JPL ephemeris data.
+
 ### 🌐 [Saturn Return Calculator](https://ganak.app/calculators/saturn-return-calculator/)
 
 Free Saturn Return calculator. Find your exact Saturn Return dates with multi-pass retrograde detail, influence windows, and personalized life themes. Powered by NASA JPL ephemeris data. Supports Tropical and Sidereal zodiac systems. See if you are currently in your Saturn Return.
@@ -1114,6 +1119,14 @@ Free electricity bill calculator for India with approximate state-wise tariff sl
 
 [⬆ Back to contents](#contents)
 
+## 📌 [Food](https://ganak.app/calculators/category/food/)
+
+### 🌐 [ABV Calculator](https://ganak.app/calculators/abv-calculator/)
+
+Free ABV calculator for beer, wine, mead, and cocktails. Calculate alcohol by volume from OG and FG gravity readings in SG, Plato, or Brix. Includes cocktail ABV mixer, ABV to Proof converter, attenuation, calories per serving, and standard drink count. Supports both simple and alternate (high-gravity) formulas.
+
+[⬆ Back to contents](#contents)
+
 ---
 
 ## Suggest a Calculator
@@ -1126,4 +1139,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-15 · 243 calculators</sub>
+<sub>Last updated: 2026-03-15 · 245 calculators</sub>
