@@ -1,6 +1,6 @@
 # Everyday Calculators
 
-[![Ganak — Calculations Done, Right](https://ganak.app/og-image.png)](https://ganak.app)
+[![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
 A directory of **242+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
