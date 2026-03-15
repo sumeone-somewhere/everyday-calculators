@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **242+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **243+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [8 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [3 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [22 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [23 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [11 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [15 calculators](https://ganak.app/calculators/category/construction/)
@@ -555,6 +555,10 @@ Calculate creatinine clearance (CrCl) using the Cockcroft-Gault equation with au
 ### 🌐 [eGFR Calculator](https://ganak.app/calculators/egfr-calculator/)
 
 Free eGFR calculator to estimate your kidney function using the CKD-EPI 2021, CKD-EPI 2009, MDRD, and Cockcroft-Gault equations. Enter serum creatinine, age, and sex for instant results with CKD staging (KDIGO G1–G5), risk classification, and all-equation comparison. Supports mg/dL and µmol/L creatinine units.
+
+### 🌐 [FFMI Calculator](https://ganak.app/calculators/ffmi-calculator/)
+
+Calculate your Fat-Free Mass Index (FFMI) to assess your muscularity and natural genetic potential. Get your normalized FFMI, body composition breakdown, classification category, and progress toward the natural limit. Based on Kouri et al. (1995) research. Supports metric and imperial units.
 
 ### 🌐 [Height Calculator](https://ganak.app/calculators/height-calculator/)
 
@@ -1122,4 +1126,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-15 · 242 calculators</sub>
+<sub>Last updated: 2026-03-15 · 243 calculators</sub>
