@@ -19,34 +19,34 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — 33 calculators
-- [📈 Investment](#investment) — 16 calculators
-- [💰 Savings](#savings) — 6 calculators
-- [🏦 Loans & EMI](#loans-emi) — 14 calculators
-- [🧾 Tax](#tax) — 20 calculators
-- [💼 Business](#business) — 10 calculators
-- [💵 Salary](#salary) — 8 calculators
-- [🏖️ Retirement](#retirement) — 3 calculators
-- [❤️ Health](#health) — 22 calculators
-- [🏋️ Fitness](#fitness) — 4 calculators
-- [📅 Date & Time](#date-time) — 11 calculators
-- [🏗️ Construction](#construction) — 15 calculators
-- [🔄 Converters](#converters) — 19 calculators
-- [🎓 Academic](#academic) — 9 calculators
-- [🎨 Design](#design) — 3 calculators
-- [💻 Tech](#tech) — 6 calculators
-- [🚗 Auto](#auto) — 4 calculators
-- [✈️ Travel](#travel) — 2 calculators
-- [🎲 Fun](#fun) — 3 calculators
-- [🔮 Spirituality](#spirituality) — 15 calculators
-- [🎯 Probability](#probability) — 2 calculators
-- [👗 Styling](#styling) — 8 calculators
-- [🏛️ Government Schemes](#government-schemes) — 3 calculators
-- [📦 Others](#others) — 6 calculators
+- [🔢 Math](#math) — [33 calculators](https://ganak.app/calculators/category/math/)
+- [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
+- [💰 Savings](#savings) — [6 calculators](https://ganak.app/calculators/category/savings/)
+- [🏦 Loans & EMI](#loans-emi) — [14 calculators](https://ganak.app/calculators/category/loans-and-emi/)
+- [🧾 Tax](#tax) — [20 calculators](https://ganak.app/calculators/category/tax/)
+- [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
+- [💵 Salary](#salary) — [8 calculators](https://ganak.app/calculators/category/salary/)
+- [🏖️ Retirement](#retirement) — [3 calculators](https://ganak.app/calculators/category/retirement/)
+- [❤️ Health](#health) — [22 calculators](https://ganak.app/calculators/category/health/)
+- [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
+- [📅 Date & Time](#date-time) — [11 calculators](https://ganak.app/calculators/category/date-and-time/)
+- [🏗️ Construction](#construction) — [15 calculators](https://ganak.app/calculators/category/construction/)
+- [🔄 Converters](#converters) — [19 calculators](https://ganak.app/calculators/category/converters/)
+- [🎓 Academic](#academic) — [9 calculators](https://ganak.app/calculators/category/academic/)
+- [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
+- [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
+- [🚗 Auto](#auto) — [4 calculators](https://ganak.app/calculators/category/auto/)
+- [✈️ Travel](#travel) — [2 calculators](https://ganak.app/calculators/category/travel/)
+- [🎲 Fun](#fun) — [3 calculators](https://ganak.app/calculators/category/fun/)
+- [🔮 Spirituality](#spirituality) — [15 calculators](https://ganak.app/calculators/category/spirituality/)
+- [🎯 Probability](#probability) — [2 calculators](https://ganak.app/calculators/category/probability/)
+- [👗 Styling](#styling) — [8 calculators](https://ganak.app/calculators/category/styling/)
+- [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
+- [📦 Others](#others) — [6 calculators](https://ganak.app/calculators/category/others/)
 
 ---
 
-## 🔢 Math
+## 🔢 [Math](https://ganak.app/calculators/category/math/)
 
 ### 🌐 [Algebra Calculator](https://ganak.app/calculators/algebra-calculator/)
 
@@ -182,7 +182,7 @@ Calculate the weighted average of a set of numbers with different weights. Suppo
 
 [⬆ Back to contents](#contents)
 
-## 📈 Investment
+## 📈 [Investment](https://ganak.app/calculators/category/investment/)
 
 ### 🌐 [CAGR Calculator](https://ganak.app/calculators/cagr-calculator/)
 
@@ -250,7 +250,7 @@ Calculate Systematic Withdrawal Plan returns for mutual funds in India. Estimate
 
 [⬆ Back to contents](#contents)
 
-## 💰 Savings
+## 💰 [Savings](https://ganak.app/calculators/category/savings/)
 
 ### 🌐 [APY Calculator](https://ganak.app/calculators/apy-calculator/)
 
@@ -278,7 +278,7 @@ Calculate Recurring Deposit (RD) maturity amount, total interest earned, and mon
 
 [⬆ Back to contents](#contents)
 
-## 🏦 Loans & EMI
+## 🏦 [Loans & EMI](https://ganak.app/calculators/category/loans-and-emi/)
 
 ### 🌐 [Amortization Calculator](https://ganak.app/calculators/amortization-calculator/)
 
@@ -338,7 +338,7 @@ Check your personal loan eligibility based on monthly income and existing EMI ob
 
 [⬆ Back to contents](#contents)
 
-## 🧾 Tax
+## 🧾 [Tax](https://ganak.app/calculators/category/tax/)
 
 ### 🌐 [Stamp Duty Calculator AU](https://ganak.app/calculators/au/stamp-duty-calculator/)
 
@@ -422,7 +422,7 @@ Calculate UK VAT instantly. Add or remove VAT at the standard rate (20%), reduce
 
 [⬆ Back to contents](#contents)
 
-## 💼 Business
+## 💼 [Business](https://ganak.app/calculators/category/business/)
 
 ### 🌐 [Break Even Calculator](https://ganak.app/calculators/break-even-calculator/)
 
@@ -466,7 +466,7 @@ Calculate PayPal fees for Goods & Services, invoices, QR codes, Venmo, Friends &
 
 [⬆ Back to contents](#contents)
 
-## 💵 Salary
+## 💵 [Salary](https://ganak.app/calculators/category/salary/)
 
 ### 🌐 [Commission Calculator](https://ganak.app/calculators/commission-calculator/)
 
@@ -502,7 +502,7 @@ Free paycheck calculator for all 50 US states. Calculate your take-home pay with
 
 [⬆ Back to contents](#contents)
 
-## 🏖️ Retirement
+## 🏖️ [Retirement](https://ganak.app/calculators/category/retirement/)
 
 ### 🌐 [Retirement Calculator](https://ganak.app/calculators/retirement-calculator/)
 
@@ -518,7 +518,7 @@ Free UK pension calculator. Estimate your retirement income from workplace pensi
 
 [⬆ Back to contents](#contents)
 
-## ❤️ Health
+## ❤️ [Health](https://ganak.app/calculators/category/health/)
 
 ### 🌐 [A1C Calculator](https://ganak.app/calculators/a1c-calculator/)
 
@@ -610,7 +610,7 @@ Calculate your daily water intake based on weight, activity level, climate, and 
 
 [⬆ Back to contents](#contents)
 
-## 🏋️ Fitness
+## 🏋️ [Fitness](https://ganak.app/calculators/category/fitness/)
 
 ### 🌐 [One Rep Max Calculator](https://ganak.app/calculators/one-rep-max-calculator/)
 
@@ -630,7 +630,7 @@ Calculate your VO2 Max (maximal oxygen uptake) from multiple test methods: Coope
 
 [⬆ Back to contents](#contents)
 
-## 📅 Date & Time
+## 📅 [Date & Time](https://ganak.app/calculators/category/date-and-time/)
 
 ### 🌐 [Add/Subtract Date Calculator](https://ganak.app/calculators/date-calculator/date-add/)
 
@@ -678,7 +678,7 @@ Count business days (working days) between two dates, excluding weekends and hol
 
 [⬆ Back to contents](#contents)
 
-## 🏗️ Construction
+## 🏗️ [Construction](https://ganak.app/calculators/category/construction/)
 
 ### 🌐 [Asphalt Calculator](https://ganak.app/calculators/asphalt-calculator/)
 
@@ -742,7 +742,7 @@ Calculate wall area for painting or wallpaper, automatically subtracting doors a
 
 [⬆ Back to contents](#contents)
 
-## 🔄 Converters
+## 🔄 [Converters](https://ganak.app/calculators/category/converters/)
 
 ### 🌐 [Astronomy Distance Converter](https://ganak.app/calculators/astronomy-length-converter/)
 
@@ -822,7 +822,7 @@ Free Indian land unit converter with 20+ units including Bigha, Gaj, Guntha, Cen
 
 [⬆ Back to contents](#contents)
 
-## 🎓 Academic
+## 🎓 [Academic](https://ganak.app/calculators/category/academic/)
 
 ### 🌐 [Attendance Calculator](https://ganak.app/calculators/attendance-calculator/)
 
@@ -862,7 +862,7 @@ Free SGPA to CGPA calculator to convert your semester-wise SGPAs to cumulative C
 
 [⬆ Back to contents](#contents)
 
-## 🎨 Design
+## 🎨 [Design](https://ganak.app/calculators/category/design/)
 
 ### 🌐 [Aspect Ratio Calculator](https://ganak.app/calculators/aspect-ratio-calculator/)
 
@@ -878,7 +878,7 @@ Free PX to REM converter. Convert pixels to rem (and rem to px) with any base fo
 
 [⬆ Back to contents](#contents)
 
-## 💻 Tech
+## 💻 [Tech](https://ganak.app/calculators/category/tech/)
 
 ### 🌐 [PC Bottleneck Calculator](https://ganak.app/calculators/bottleneck-calculator/)
 
@@ -906,7 +906,7 @@ Calculate subnet details for any IPv4 or IPv6 address. Enter an IP and CIDR pref
 
 [⬆ Back to contents](#contents)
 
-## 🚗 Auto
+## 🚗 [Auto](https://ganak.app/calculators/category/auto/)
 
 ### 🌐 [Gear Ratio Calculator](https://ganak.app/calculators/gear-ratio-calculator/)
 
@@ -926,7 +926,7 @@ Free towing capacity calculator. Check payload, towing capacity, GCVW, tongue we
 
 [⬆ Back to contents](#contents)
 
-## ✈️ Travel
+## ✈️ [Travel](https://ganak.app/calculators/category/travel/)
 
 ### 🌐 [Fuel Cost Calculator](https://ganak.app/calculators/fuel-cost-calculator/)
 
@@ -938,7 +938,7 @@ Calculate toll costs for any trip. Compare pass vs cash pricing, estimate commut
 
 [⬆ Back to contents](#contents)
 
-## 🎲 Fun
+## 🎲 [Fun](https://ganak.app/calculators/category/fun/)
 
 ### 🌐 [Dog Age Calculator](https://ganak.app/calculators/dog-age-calculator/)
 
@@ -954,7 +954,7 @@ Calculate your love compatibility by name, FLAMES game, or numerology. Get your 
 
 [⬆ Back to contents](#contents)
 
-## 🔮 Spirituality
+## 🔮 [Spirituality](https://ganak.app/calculators/category/spirituality/)
 
 ### 🌐 [Angel Number Calculator](https://ganak.app/calculators/angel-number-calculator/)
 
@@ -1018,7 +1018,7 @@ Free Zakat calculator with customizable Nisab rates. Calculate Zakat on gold, si
 
 [⬆ Back to contents](#contents)
 
-## 🎯 Probability
+## 🎯 [Probability](https://ganak.app/calculators/category/probability/)
 
 ### 🌐 [Blackjack Calculator](https://ganak.app/calculators/blackjack-calculator/)
 
@@ -1030,7 +1030,7 @@ Free odds calculator with 5 modes: convert between American, decimal & fractiona
 
 [⬆ Back to contents](#contents)
 
-## 👗 Styling
+## 👗 [Styling](https://ganak.app/calculators/category/styling/)
 
 ### 🌐 [Body Shape Calculator](https://ganak.app/calculators/body-shape-calculator/)
 
@@ -1066,7 +1066,7 @@ Free tablecloth size calculator. Enter table dimensions and drop style to find t
 
 [⬆ Back to contents](#contents)
 
-## 🏛️ Government Schemes
+## 🏛️ [Government Schemes](https://ganak.app/calculators/category/government-schemes/)
 
 ### 🇮🇳 [NPS Calculator](https://ganak.app/calculators/india/nps-calculator/)
 
@@ -1082,7 +1082,7 @@ Calculate Sukanya Samriddhi Yojana (SSY) maturity amount for girl child savings 
 
 [⬆ Back to contents](#contents)
 
-## 📦 Others
+## 📦 [Others](https://ganak.app/calculators/category/others/)
 
 ### 🌐 [Discount Calculator](https://ganak.app/calculators/discount-calculator/)
 
