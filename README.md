@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **249+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **250+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -29,7 +29,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏖️ Retirement](#retirement) — [3 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [23 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
-- [📅 Date & Time](#date-time) — [11 calculators](https://ganak.app/calculators/category/date-and-time/)
+- [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [16 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [19 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [9 calculators](https://ganak.app/calculators/category/academic/)
@@ -681,6 +681,10 @@ Calculate the number of days between two dates or add/subtract days from any dat
 
 Calculate hours worked between any two times, with optional break deduction. Switch to Weekly Timecard mode to track daily shifts across 7 days with totals. Add your hourly rate to calculate gross pay and overtime. Ideal for employees, freelancers, nurses, and anyone tracking billable or payroll hours. Overnight shifts detected automatically.
 
+### 🌐 [Military Time Converter](https://ganak.app/calculators/military-time-converter/)
+
+Convert military time to standard time and back instantly. Bidirectional converter between 24-hour military time and 12-hour AM/PM format with spoken pronunciation, copy button, and full conversion chart. Used by military, aviation, healthcare, and emergency services worldwide.
+
 ### 🌐 [Week Number Calculator](https://ganak.app/calculators/date-calculator/week-number/)
 
 Get the ISO 8601 week number for any date, following international standard week numbering. Find which week of the year a date falls in, useful for weekly reporting, payroll processing, project tracking, and manufacturing schedules. Includes year-week format (e.g., 2024-W15).
@@ -1155,4 +1159,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-16 · 249 calculators</sub>
+<sub>Last updated: 2026-03-16 · 250 calculators</sub>
