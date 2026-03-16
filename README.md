@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **245+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **248+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -22,7 +22,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🔢 Math](#math) — [33 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [6 calculators](https://ganak.app/calculators/category/savings/)
-- [🏦 Loans & EMI](#loans-emi) — [14 calculators](https://ganak.app/calculators/category/loans-and-emi/)
+- [🏦 Loans & EMI](#loans-emi) — [17 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [20 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [8 calculators](https://ganak.app/calculators/category/salary/)
@@ -284,6 +284,18 @@ Calculate Recurring Deposit (RD) maturity amount, total interest earned, and mon
 ### 🌐 [Amortization Calculator](https://ganak.app/calculators/amortization-calculator/)
 
 Free amortization calculator with full payment schedule. See monthly principal and interest breakdown for mortgages, auto loans, personal loans, and student loans. Calculate extra payment savings, visualize the cross-over point, and generate yearly or monthly amortization tables. Supports bi-weekly payments and one-time lump sum prepayments.
+
+### 🌐 [Auto Lease Calculator](https://ganak.app/calculators/auto-lease-calculator/)
+
+Free auto lease calculator. Calculate your auto lease payment with money factor, residual value, and cap cost breakdown. Includes lease vs buy comparison and full payment schedule.
+
+### 🌐 [Car Lease Calculator](https://ganak.app/calculators/car-lease-calculator/)
+
+Free car lease calculator. Estimate your monthly car lease payment with depreciation, finance charge, and tax breakdown. Compare lease vs buy, view payment schedule, and calculate due-at-signing costs.
+
+### 🌐 [Lease Calculator](https://ganak.app/calculators/lease-calculator/)
+
+Free lease calculator. Calculate monthly lease payment, total cost, and compare lease vs buy. Enter vehicle or equipment price, residual value, money factor or APR, and lease term. Includes payment breakdown, schedule, and multi-currency support.
 
 ### 🌐 [Loan Amortization Calculator](https://ganak.app/calculators/loan-amortization-calculator/)
 
@@ -1139,4 +1151,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-15 · 245 calculators</sub>
+<sub>Last updated: 2026-03-16 · 248 calculators</sub>
