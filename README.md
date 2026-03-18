@@ -615,7 +615,7 @@ Calculate optimal bedtime and wake-up times based on 90-minute sleep cycles. Fin
 
 ### 🌐 [TDEE Calculator](https://ganak.app/calculators/tdee-calculator/)
 
-Calculate your Total Daily Energy Expenditure (TDEE) - the total calories you burn per day including all activities. Essential for weight loss (calorie deficit), weight gain (surplus), or maintenance. Uses BMR plus activity multipliers for sedentary, light, moderate, active, and very active lifestyles. Includes macronutrient recommendations.
+Free TDEE calculator using the Mifflin-St Jeor and Katch-McArdle equations. Calculate your Total Daily Energy Expenditure — total calories burned per day — and get personalized targets for weight loss (calorie deficit), weight gain (surplus), or maintenance. Includes activity-level multipliers, macro breakdown, calorie goal scenarios, and a BMR vs TDEE comparison.
 
 ### 🌐 [Waist to Height Ratio Calculator](https://ganak.app/calculators/waist-to-height-ratio-calculator/)
 
