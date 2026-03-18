@@ -1115,7 +1115,7 @@ Calculate Sukanya Samriddhi Yojana (SSY) maturity amount for girl child savings 
 
 ### 🌐 [Discount Calculator](https://ganak.app/calculators/discount-calculator/)
 
-Free discount calculator with tax (GST, VAT, sales tax). Calculate percentage off, flat discounts, double/stacked discounts (20% + 10%), and find the original price from a sale price. Compare discount deals across 9 currencies. Essential for shopping sales, coupons, Black Friday deals, and price negotiations.
+Free discount calculator with BOGO (Buy One Get One), Buy 2 Get 1 Free, % off 2nd item, stacked discounts (20% + 10%), tax (GST, VAT, sales tax), and reverse price calculations. Calculate percentage off, flat discounts, find the original price, and compare deals across 11 currencies. Essential for shopping sales, coupons, Black Friday deals, and bundle offers.
 
 ### 🌐 [Rent Calculator](https://ganak.app/calculators/rent-calculator/)
 
@@ -1159,4 +1159,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-17 · 250 calculators</sub>
+<sub>Last updated: 2026-03-18 · 250 calculators</sub>
