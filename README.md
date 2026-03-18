@@ -411,7 +411,7 @@ Calculate capital gains tax on REITs (Real Estate Investment Trusts) and InvITs 
 
 ### 🇺🇸 [Sales Tax Calculator](https://ganak.app/calculators/us/sales-tax-calculator/)
 
-Calculate US sales tax for any state. Add or remove sales tax from any purchase price. Covers all 50 states with state-level average combined rates for quick estimates. Exact sales tax depends on the full delivery address and item taxability. Essential for e-commerce sellers, shoppers, and businesses operating across multiple US states.
+Calculate US sales tax for any state — add or reverse sales tax from any purchase price. Covers all 50 states with average combined rates. Use the reverse sales tax calculator to find the pre-tax price from a total. Works for car sales tax, online purchases, and business invoicing. Rates vary by state, county, city, and ZIP code.
 
 ### 🇮🇳 [Stamp Duty Calculator India](https://ganak.app/calculators/in/stamp-duty-calculator/)
 
