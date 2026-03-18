@@ -543,7 +543,7 @@ Free BAC calculator using the Widmark formula. Estimate your blood alcohol conte
 
 ### 🌐 [BMI Calculator](https://ganak.app/calculators/bmi-calculator/)
 
-Calculate your Body Mass Index (BMI) using height and weight. Instantly find your BMI category (underweight, normal, overweight, obese) based on WHO and CDC standards. Includes BMI chart, healthy weight range, and personalized health recommendations. Supports metric (kg/cm) and imperial (lbs/inches) units.
+Free BMI calculator with full WHO 8-category classification. Calculate your Body Mass Index, BMI Prime, Ponderal Index, healthy weight range, and weight-to-goal. Includes BMI chart for men and women, ethnicity-adjusted thresholds for Asian populations, and obesity class breakdown. Supports metric (kg/cm) and imperial (lbs/inches).
 
 ### 🌐 [BMR Calculator](https://ganak.app/calculators/bmr-calculator/)
 
