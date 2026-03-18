@@ -1103,11 +1103,11 @@ Calculate NPS (National Pension System) retirement corpus, monthly pension, and 
 
 ### 🇮🇳 [PPF Calculator](https://ganak.app/calculators/india/ppf-calculator/)
 
-Calculate PPF (Public Provident Fund) maturity amount, yearly interest, and total returns over 15 years in India. Estimate EEE tax benefits under Section 80C (up to ₹1.5 lakh deduction), plan annual contributions, and compare PPF with other safe investments. PPF interest rate: 7.1% p.a. as of Q4 FY 2025-26, compounded yearly. Government-backed retirement savings.
+Calculate PPF (Public Provident Fund) maturity amount, yearly interest, and total returns over 15 years in India. Plan annual contributions (up to ₹1.5 lakh under Section 80C) and compare PPF with other safe investments. PPF interest rate: 7.1% p.a. as of Q4 FY 2025-26, compounded yearly. Government-backed, EEE tax-free retirement savings.
 
 ### 🇮🇳 [Sukanya Samriddhi Yojana Calculator](https://ganak.app/calculators/india/sukanya-samriddhi-yojana-calculator/)
 
-Calculate Sukanya Samriddhi Yojana (SSY) maturity amount for girl child savings in India. Estimate total returns at age 21, plan yearly deposits (₹250 to ₹1.5 lakh), and understand partial withdrawal rules at age 18. Current SSY interest rate: 8.2% p.a. Among the highest rates among small savings schemes with Section 80C tax benefits. Essential for daughter's education and marriage planning.
+Calculate Sukanya Samriddhi Yojana (SSY) maturity amount for girl child savings in India. Estimate total returns at age 21, plan yearly deposits (₹250 to ₹1.5 lakh), and see your monthly savings equivalent. Partial withdrawal rules at age 18. Current SSY interest rate: 8.2% p.a., same at Post Office, SBI, HDFC, ICICI, and all authorized banks. Section 80C tax benefits with EEE status. Essential for daughter's education and marriage planning.
 
 [⬆ Back to contents](#contents)
 
