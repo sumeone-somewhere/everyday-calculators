@@ -547,7 +547,7 @@ Free BMI calculator with full WHO 8-category classification. Calculate your Body
 
 ### 🌐 [BMR Calculator](https://ganak.app/calculators/bmr-calculator/)
 
-Calculate your Basal Metabolic Rate (BMR) - the calories your body burns at complete rest. Uses Mifflin-St Jeor and Harris-Benedict equations for accurate results. Essential for weight loss, muscle gain, and nutrition planning. Find your daily calorie needs with activity level multipliers for sedentary to very active lifestyles.
+Calculate your Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) using the Mifflin-St Jeor and Katch-McArdle equations. Get personalized calorie targets for weight loss, maintenance, or muscle gain with macro breakdown and activity level multipliers.
 
 ### 🌐 [Body Fat Calculator](https://ganak.app/calculators/body-fat-calculator/)
 
@@ -579,7 +579,7 @@ Predict your child's adult height using 3 scientific methods (Khamis-Roche, Mid-
 
 ### 🌐 [Ideal Weight Calculator](https://ganak.app/calculators/ideal-weight-calculator/)
 
-Calculate your ideal body weight using multiple scientifically-validated formulas (Devine, Robinson, Miller, Hamwi). Find your healthy weight range based on height, age, frame size, and gender. Perfect for fitness goal setting, weight loss targets, and health assessments. Includes BMI-based recommendations and ideal weight ranges.
+Calculate your ideal body weight using BMI-based healthy ranges and four clinical formulas (Devine, Robinson, Miller, Hamwi). Personalized by gender and frame size with visual comparison, time-to-goal estimates, and shareable results. Supports metric (kg/cm) and imperial (lbs/inches).
 
 ### 🌐 [Life Expectancy Calculator](https://ganak.app/calculators/life-expectancy-calculator/)
 
