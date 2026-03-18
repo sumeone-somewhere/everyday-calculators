@@ -551,7 +551,7 @@ Calculate your Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TD
 
 ### 🌐 [Body Fat Calculator](https://ganak.app/calculators/body-fat-calculator/)
 
-Estimate body fat percentage using the U.S. Navy method and BMI-based calculations. Compare fat mass vs lean mass, view your body composition category, and track fitness progress. Requires waist, neck, and hip measurements. Includes body fat category charts for men and women, plus healthy body fat ranges by age.
+Free body fat percentage calculator using the U.S. Navy circumference method and BMI-based formula. Supports Army body fat standards (ABCP) and Navy fitness requirements. Enter neck, waist, and hip measurements to estimate body fat %, fat mass, lean mass, and ideal body fat range. Includes ACE category chart, method comparison, and healthy body fat ranges by age for men and women.
 
 ### 🌐 [Calorie Calculator](https://ganak.app/calculators/calorie-calculator/)
 
