@@ -271,7 +271,7 @@ Free CD calculator. Calculate certificate of deposit interest, maturity amount, 
 
 ### 🇮🇳 [FD Calculator](https://ganak.app/calculators/india/fd-calculator/)
 
-Calculate Fixed Deposit (FD) maturity amount and interest earned for Indian banks. Compare FD rates across SBI, HDFC, ICICI, and other banks. Supports quarterly, monthly, and cumulative interest payout options. Essential for safe investment planning, senior citizen FD rates, and tax-saving 5-year FDs under Section 80C.
+Calculate Fixed Deposit (FD) maturity amount and interest earned for Indian banks. Compare FD rates across SBI, HDFC, ICICI, Axis, PNB, Kotak, and other banks. Supports quarterly, monthly, and cumulative interest payout options with TDS calculation. Essential for safe investment planning, senior citizen FD rates, and tax-saving 5-year FDs under Section 80C.
 
 ### 🇮🇳 [RD Calculator](https://ganak.app/calculators/india/rd-calculator/)
 
