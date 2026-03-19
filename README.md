@@ -823,7 +823,7 @@ Convert between square feet, square meters, square yards, acres, hectares, and m
 
 ### 🌐 [Temperature Converter Calculator](https://ganak.app/calculators/temperature-converter/)
 
-Free online temperature converter supporting Celsius (°C), Fahrenheit (°F), Kelvin (K), and Rankine (°R). Instant bidirectional conversion with formulas displayed. Essential for cooking, weather, scientific experiments, HVAC calculations, and international temperature comparisons. Includes common reference points like freezing and boiling points.
+Free temperature converter with printable °F to °C chart & oven temperature table. Convert Celsius (°C), Fahrenheit (°F), Kelvin (K) and Rankine (°R) instantly. Includes cooking temperature guide, conversion formulas, and common reference points for weather, science, HVAC, and everyday use.
 
 ### 🌐 [Time to Decimal Calculator](https://ganak.app/calculators/time-to-decimal-calculator/)
 
