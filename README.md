@@ -1159,4 +1159,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-18 · 250 calculators</sub>
+<sub>Last updated: 2026-03-19 · 250 calculators</sub>
