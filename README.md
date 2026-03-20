@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **251+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **252+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -32,7 +32,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [17 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [19 calculators](https://ganak.app/calculators/category/converters/)
-- [🎓 Academic](#academic) — [9 calculators](https://ganak.app/calculators/category/academic/)
+- [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
 - [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
 - [🚗 Auto](#auto) — [4 calculators](https://ganak.app/calculators/category/auto/)
@@ -853,6 +853,10 @@ Free Indian land unit converter for 20+ units: Bigha, Gaj, Guntha, Cent, Katha, 
 
 ## 🎓 [Academic](https://ganak.app/calculators/category/academic/)
 
+### 🌐 [ATAR Calculator](https://ganak.app/calculators/atar-calculator/)
+
+Free VCE ATAR calculator with approximate subject scaling. Enter your study scores to estimate your Australian Tertiary Admission Rank, view aggregate breakdown, and check university entry benchmarks. Rough estimates also available for HSC, QCE, WACE, and SACE.
+
 ### 🌐 [Attendance Calculator](https://ganak.app/calculators/attendance-calculator/)
 
 Free attendance calculator. Find your attendance %, classes needed to reach 75% (or any target), and how many you can safely miss. Track by classes or days.
@@ -1163,4 +1167,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-20 · 251 calculators</sub>
+<sub>Last updated: 2026-03-20 · 252 calculators</sub>
