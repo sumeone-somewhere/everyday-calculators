@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **254+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **308+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -31,7 +31,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [17 calculators](https://ganak.app/calculators/category/construction/)
-- [🔄 Converters](#converters) — [19 calculators](https://ganak.app/calculators/category/converters/)
+- [🔄 Converters](#converters) — [73 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
 - [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
@@ -789,6 +789,10 @@ Astronomy distance converter for light years, parsecs, AU and kilometers. Unders
 
 Body weight converter for fitness and health. Convert between kg, pounds and stone. Perfect for weight loss tracking and gym progress.
 
+### 🌐 [Carats to Grams Converter](https://ganak.app/calculators/carats-to-grams-converter/)
+
+Convert carats to grams instantly. Free carat to gram converter with quick reference table and formula. 1 carat = 0.2 grams. Used for gemstones and diamonds.
+
 ### 🌐 [Cooking Weight Converter](https://ganak.app/calculators/cooking-weight-converter/)
 
 Kitchen weight converter for recipes. Convert grams, ounces, pounds, cups, tablespoons and teaspoons. Great for scaling recipes and baking.
@@ -801,13 +805,173 @@ Convert 150+ currencies with daily updated exchange rates. Includes 90-day trend
 
 Gold and jewelry weight converter for Tola, Grams, Carats, Troy Ounces, Grains and Pennyweights. Essential for gold traders and jewelers.
 
+### 🌐 [Grains to Grams Converter](https://ganak.app/calculators/grains-to-grams-converter/)
+
+Convert grains to grams instantly. Free grain to gram converter with quick reference table and formula. 1 grain = 0.0648 grams.
+
+### 🌐 [Grams to Carats Converter](https://ganak.app/calculators/grams-to-carats-converter/)
+
+Convert grams to carats instantly. Free gram to carat converter with quick reference table and formula. 1 gram = 5 carats. Used for gemstones and diamonds.
+
+### 🌐 [Grams to Grains Converter](https://ganak.app/calculators/grams-to-grains-converter/)
+
+Convert grams to grains instantly. Free g to grain converter with quick reference table and formula. 1 gram = 15.4324 grains. Used in pharmacy and ammunition.
+
+### 🌐 [Grams to Kg Converter](https://ganak.app/calculators/grams-to-kg-converter/)
+
+Convert grams to kilograms instantly. Free g to kg converter with quick reference table and formula. 1000 grams = 1 kilogram.
+
+### 🌐 [Grams to Mg Converter](https://ganak.app/calculators/grams-to-mg-converter/)
+
+Convert grams to milligrams instantly. Free g to mg converter with quick reference table and formula. 1 gram = 1000 milligrams.
+
+### 🌐 [Grams to Micrograms Converter](https://ganak.app/calculators/grams-to-micrograms-converter/)
+
+Convert grams to micrograms (mcg/μg) instantly. Free g to mcg converter with quick reference table and formula. 1 gram = 1,000,000 micrograms.
+
+### 🌐 [Grams to Ounces Converter](https://ganak.app/calculators/grams-to-ounces-converter/)
+
+Convert grams to ounces instantly. Free g to oz converter with quick reference table, formula, and common conversions for cooking, jewelry, and postal weights.
+
+### 🌐 [Grams to Pennyweight Converter](https://ganak.app/calculators/grams-to-pennyweight-converter/)
+
+Convert grams to pennyweight instantly. Free g to dwt converter with quick reference table and formula. 1 gram = 0.6430 pennyweight.
+
+### 🌐 [Grams to Pounds Converter](https://ganak.app/calculators/grams-to-pounds-converter/)
+
+Convert grams to pounds instantly. Free g to lbs converter with quick reference table, formula, and common conversions for cooking, shipping, and science.
+
+### 🌐 [Grams to Tola Converter](https://ganak.app/calculators/grams-to-tola-converter/)
+
+Convert grams to tola instantly. Free grams to tola converter with quick reference table and formula. 1 tola = 11.664 grams. Used for gold trading in South Asia.
+
+### 🌐 [Grams to Tonnes Converter](https://ganak.app/calculators/grams-to-tonnes-converter/)
+
+Convert grams to metric tonnes instantly. Free g to tonnes converter with quick reference table and formula. 1,000,000 grams = 1 tonne.
+
+### 🌐 [Grams to Troy Ounces Converter](https://ganak.app/calculators/grams-to-troy-ounces-converter/)
+
+Convert grams to troy ounces instantly. Free g to troy oz converter with quick reference table and formula. 1 troy oz = 31.1035 g. Essential for gold and silver.
+
 ### 🌐 [GSM Calculator](https://ganak.app/calculators/gsm-calculator/)
 
 Free GSM calculator for fabric, paper and materials. Calculate g/m² from sample weight or find material weight. Converts GSM to oz/yd² and lbs/ream.
 
+### 🌐 [Kg to Grams Converter](https://ganak.app/calculators/kg-to-grams-converter/)
+
+Convert kilograms to grams instantly. Free kg to g converter with quick reference table and formula. 1 kilogram = 1000 grams.
+
+### 🌐 [Kg to Lbs Converter](https://ganak.app/calculators/kg-to-lbs-converter/)
+
+Convert kilograms to pounds instantly. Free kg to lbs converter with quick reference table, formula, and common weight conversions for fitness, shipping, and cooking.
+
+### 🌐 [Kg to Mg Converter](https://ganak.app/calculators/kg-to-mg-converter/)
+
+Convert kilograms to milligrams instantly. Free kg to mg converter with quick reference table and formula. 1 kg = 1,000,000 mg.
+
+### 🌐 [Kg to Ounces Converter](https://ganak.app/calculators/kg-to-ounces-converter/)
+
+Convert kilograms to ounces instantly. Free kg to oz converter with quick reference table and formula. 1 kg = 35.274 ounces.
+
+### 🌐 [Kg to Short Tons Converter](https://ganak.app/calculators/kg-to-short-tons-converter/)
+
+Convert kilograms to US short tons instantly. Free kg to short tons converter with quick reference table and formula. 907.185 kg = 1 US short ton.
+
+### 🌐 [Kg to Stone Converter](https://ganak.app/calculators/kg-to-stone-converter/)
+
+Convert kilograms to stone instantly. Free kg to stone converter with quick reference table and formula. 1 stone = 6.35 kg. Used for body weight in UK and Ireland.
+
+### 🌐 [Kg to Tonnes Converter](https://ganak.app/calculators/kg-to-tonnes-converter/)
+
+Convert kilograms to metric tonnes instantly. Free kg to tonnes converter with quick reference table and formula. 1000 kg = 1 tonne.
+
+### 🌐 [Lbs to Kg Converter](https://ganak.app/calculators/lbs-to-kg-converter/)
+
+Convert pounds to kilograms instantly. Free lbs to kg converter with quick reference table, formula, and common weight conversions for fitness, travel, and shipping.
+
 ### 🌐 [Length Converter Calculator](https://ganak.app/calculators/length-converter/)
 
 Free length converter for 20+ units: cm, meters, km, feet, inches, miles, yards and more. Instant bidirectional conversion with high precision.
+
+### 🌐 [Mcg to Mg Converter](https://ganak.app/calculators/mcg-to-mg-converter/)
+
+Convert micrograms (mcg/μg) to milligrams instantly. Free mcg to mg converter with quick reference table and formula. 1000 mcg = 1 mg.
+
+### 🌐 [Mg to Grams Converter](https://ganak.app/calculators/mg-to-grams-converter/)
+
+Convert milligrams to grams instantly. Free mg to g converter with quick reference table and formula. 1000 milligrams = 1 gram.
+
+### 🌐 [Mg to Kg Converter](https://ganak.app/calculators/mg-to-kg-converter/)
+
+Convert milligrams to kilograms instantly. Free mg to kg converter with quick reference table and formula. 1,000,000 mg = 1 kg.
+
+### 🌐 [Mg to Mcg Converter](https://ganak.app/calculators/mg-to-mcg-converter/)
+
+Convert milligrams to micrograms (mcg/μg) instantly. Free mg to mcg converter with quick reference table and formula. 1 mg = 1000 mcg.
+
+### 🌐 [Micrograms to Grams Converter](https://ganak.app/calculators/micrograms-to-grams-converter/)
+
+Convert micrograms (mcg/μg) to grams instantly. Free mcg to g converter with quick reference table and formula. 1,000,000 mcg = 1 gram.
+
+### 🌐 [Milligrams to Ounces Converter](https://ganak.app/calculators/milligrams-to-ounces-converter/)
+
+Convert milligrams to ounces instantly. Free mg to oz converter with quick reference table and formula. 28,349.5 mg = 1 oz.
+
+### 🌐 [Milligrams to Pounds Converter](https://ganak.app/calculators/milligrams-to-pounds-converter/)
+
+Convert milligrams to pounds instantly. Free mg to lbs converter with quick reference table and formula. 453,592.37 mg = 1 pound.
+
+### 🌐 [Ounces to Grams Converter](https://ganak.app/calculators/ounces-to-grams-converter/)
+
+Convert ounces to grams instantly. Free oz to g converter with quick reference table, formula, and common conversions for cooking, baking, and nutrition.
+
+### 🌐 [Ounces to Kg Converter](https://ganak.app/calculators/ounces-to-kg-converter/)
+
+Convert ounces to kilograms instantly. Free oz to kg converter with quick reference table and formula. 35.274 ounces = 1 kg.
+
+### 🌐 [Ounces to Milligrams Converter](https://ganak.app/calculators/ounces-to-milligrams-converter/)
+
+Convert ounces to milligrams instantly. Free oz to mg converter with quick reference table and formula. 1 oz = 28,349.5 mg.
+
+### 🌐 [Ounces to Pounds Converter](https://ganak.app/calculators/ounces-to-pounds-converter/)
+
+Convert ounces to pounds instantly. Free oz to lbs converter with quick reference table, formula, and common conversions. 16 ounces = 1 pound.
+
+### 🌐 [Ounces to Troy Ounces Converter](https://ganak.app/calculators/ounces-to-troy-ounces-converter/)
+
+Convert regular ounces (avoirdupois) to troy ounces instantly. Free oz to troy oz converter. 1 troy oz = 1.09714 regular oz. Important for precious metal buyers.
+
+### 🌐 [Pennyweight to Grams Converter](https://ganak.app/calculators/pennyweight-to-grams-converter/)
+
+Convert pennyweight to grams instantly. Free dwt to g converter with quick reference table and formula. 1 pennyweight = 1.555 grams. Used in the jewelry trade.
+
+### 🌐 [Pounds to Grams Converter](https://ganak.app/calculators/pounds-to-grams-converter/)
+
+Convert pounds to grams instantly. Free lbs to g converter with quick reference table, formula, and common conversions for cooking, baking, and nutrition.
+
+### 🌐 [Pounds to Milligrams Converter](https://ganak.app/calculators/pounds-to-milligrams-converter/)
+
+Convert pounds to milligrams instantly. Free lbs to mg converter with quick reference table and formula. 1 pound = 453,592.37 milligrams.
+
+### 🌐 [Pounds to Ounces Converter](https://ganak.app/calculators/pounds-to-ounces-converter/)
+
+Convert pounds to ounces instantly. Free lbs to oz converter — 1 pound = 16 ounces. Quick reference table, formula, and common conversions for cooking, shipping, and baby weights.
+
+### 🌐 [Pounds to Stone Converter](https://ganak.app/calculators/pounds-to-stone-converter/)
+
+Convert pounds to stone instantly. Free lbs to stone converter with quick reference table and formula. 14 lbs = 1 stone.
+
+### 🌐 [Pounds to Tonnes Converter](https://ganak.app/calculators/pounds-to-tonnes-converter/)
+
+Convert pounds to metric tonnes instantly. Free lbs to tonnes converter with quick reference table and formula. 2204.62 lbs = 1 tonne.
+
+### 🌐 [Pounds to Tons Converter](https://ganak.app/calculators/pounds-to-tons-converter/)
+
+Convert pounds to US short tons instantly. Free lbs to tons converter with quick reference table and formula. 2000 lbs = 1 US ton.
+
+### 🌐 [Pounds to Troy Ounces Converter](https://ganak.app/calculators/pounds-to-troy-ounces-converter/)
+
+Convert pounds to troy ounces instantly. Free lbs to troy oz converter with quick reference table and formula. 1 lb = 14.5833 troy oz.
 
 ### 🌐 [Real Estate Length Converter](https://ganak.app/calculators/real-estate-length-converter/)
 
@@ -829,9 +993,25 @@ Shipping weight converter for kg, pounds, tonnes and hundredweights. Essential f
 
 Free shoe size converter for US, UK, EU, JP, CM, MX, BR and KR systems. Convert men's, women's and kids' sizes with foot length measurements.
 
+### 🌐 [Short Tons to Kg Converter](https://ganak.app/calculators/short-tons-to-kg-converter/)
+
+Convert US short tons to kilograms instantly. Free short tons to kg converter with quick reference table and formula. 1 US short ton = 907.185 kg.
+
+### 🌐 [Short Tons to Tonnes Converter](https://ganak.app/calculators/short-tons-to-tonnes-converter/)
+
+Convert US short tons to metric tonnes instantly. Free short ton to tonne converter with quick reference table and formula. 1 US short ton = 0.9072 tonnes.
+
 ### 🌐 [Square Footage Converter](https://ganak.app/calculators/square-footage-converter/)
 
 Convert between square feet, square meters, square yards, acres, hectares, and more. Quick and accurate area unit conversion with all common measurement units.
+
+### 🌐 [Stone to Kg Converter](https://ganak.app/calculators/stone-to-kg-converter/)
+
+Convert stone to kilograms instantly. Free stone to kg converter with quick reference table and formula. 1 stone = 6.35 kg.
+
+### 🌐 [Stone to Pounds Converter](https://ganak.app/calculators/stone-to-pounds-converter/)
+
+Convert stone to pounds instantly. Free stone to lbs converter with quick reference table and formula. 1 stone = 14 pounds.
 
 ### 🌐 [Temperature Converter Calculator](https://ganak.app/calculators/temperature-converter/)
 
@@ -841,9 +1021,45 @@ Free temperature converter with °F↔°C chart and oven guide. Convert Celsius,
 
 Free time to decimal converter for payroll and billing. Convert hours, minutes and seconds to decimal hours with a reference table. FLSA compliant.
 
+### 🌐 [Tola to Grams Converter](https://ganak.app/calculators/tola-to-grams-converter/)
+
+Convert tola to grams instantly. Free tola to grams converter with quick reference table and formula. 1 tola = 11.664 grams. Used for gold in India, Pakistan, and Nepal.
+
+### 🌐 [Tonnes to Grams Converter](https://ganak.app/calculators/tonnes-to-grams-converter/)
+
+Convert metric tonnes to grams instantly. Free tonnes to g converter with quick reference table and formula. 1 tonne = 1,000,000 grams.
+
+### 🌐 [Tonnes to Kg Converter](https://ganak.app/calculators/tonnes-to-kg-converter/)
+
+Convert metric tonnes to kilograms instantly. Free tonnes to kg converter with quick reference table and formula. 1 tonne = 1000 kg.
+
+### 🌐 [Tonnes to Pounds Converter](https://ganak.app/calculators/tonnes-to-pounds-converter/)
+
+Convert metric tonnes to pounds instantly. Free tonnes to lbs converter with quick reference table and formula. 1 tonne = 2204.62 lbs.
+
+### 🌐 [Tonnes to Short Tons Converter](https://ganak.app/calculators/tonnes-to-short-tons-converter/)
+
+Convert metric tonnes to US short tons instantly. Free tonne to short ton converter with quick reference table and formula. 1 tonne = 1.10231 US short tons.
+
+### 🌐 [Tons to Pounds Converter](https://ganak.app/calculators/tons-to-pounds-converter/)
+
+Convert US short tons to pounds instantly. Free tons to lbs converter with quick reference table and formula. 1 US ton = 2000 lbs.
+
 ### 🌐 [Travel Distance Converter](https://ganak.app/calculators/travel-distance-converter/)
 
 Travel distance converter for km, miles, nautical miles and leagues. Perfect for trip planning, flights and maritime navigation.
+
+### 🌐 [Troy Ounces to Grams Converter](https://ganak.app/calculators/troy-ounces-to-grams-converter/)
+
+Convert troy ounces to grams instantly. Free troy oz to g converter with quick reference table and formula. 1 troy oz = 31.1035 grams.
+
+### 🌐 [Troy Ounces to Ounces Converter](https://ganak.app/calculators/troy-ounces-to-ounces-converter/)
+
+Convert troy ounces to regular ounces (avoirdupois) instantly. Free troy oz to oz converter. 1 troy oz = 1.09714 regular oz.
+
+### 🌐 [Troy Ounces to Pounds Converter](https://ganak.app/calculators/troy-ounces-to-pounds-converter/)
+
+Convert troy ounces to pounds instantly. Free troy oz to lbs converter with quick reference table and formula. 1 troy oz = 0.06857 lbs.
 
 ### 🌐 [Weight Converter Calculator](https://ganak.app/calculators/weight-converter/)
 
@@ -1175,4 +1391,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-20 · 254 calculators</sub>
+<sub>Last updated: 2026-03-20 · 308 calculators</sub>
