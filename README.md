@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **252+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **254+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -23,7 +23,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [6 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [17 calculators](https://ganak.app/calculators/category/loans-and-emi/)
-- [🧾 Tax](#tax) — [20 calculators](https://ganak.app/calculators/category/tax/)
+- [🧾 Tax](#tax) — [22 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [8 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [3 calculators](https://ganak.app/calculators/category/retirement/)
@@ -392,6 +392,14 @@ Calculate income tax for FY 2025-26 under Old and New regimes. Compare tax liabi
 ### 🇮🇳 [Listed Equity Capital Gains Tax Calculator](https://ganak.app/calculators/india/listed-equity-capital-gains-tax-calculator/)
 
 Calculate STCG (20%) and LTCG (12.5% above ₹1.25 lakh) on listed equity shares in India. Updated for Finance Act 2024 with revised rates and exemption limits.
+
+### 🇮🇳 [New Tax Regime Calculator](https://ganak.app/calculators/india/new-tax-regime-calculator/)
+
+Calculate income tax under the new tax regime (Section 115BAC) for FY 2025-26 and FY 2024-25. See slab-wise breakdown, 87A rebate, standard deduction, and effective tax rate. Zero tax up to ₹12.75 lakh for salaried individuals.
+
+### 🇮🇳 [Old Tax Regime Calculator](https://ganak.app/calculators/india/old-tax-regime-calculator/)
+
+Calculate income tax under the old tax regime with all deductions — 80C, 80D, HRA, NPS, home loan interest, and more. Age-based slabs for senior and super senior citizens. Maximize your tax savings with deduction planning.
 
 ### 🇮🇳 [Other Assets Capital Gains Tax Calculator](https://ganak.app/calculators/india/other-assets-capital-gains-tax-calculator/)
 
@@ -1167,4 +1175,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-20 · 252 calculators</sub>
+<sub>Last updated: 2026-03-20 · 254 calculators</sub>
