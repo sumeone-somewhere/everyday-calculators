@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **250+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **251+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [23 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [16 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [17 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [19 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [9 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -737,6 +737,10 @@ Free paint calculator. Enter room or house dimensions to get exact gallons neede
 
 Free rebar calculator. Estimate rebar quantity, spacing, weight, and cost for slabs, footings, and walls. Instant results with bar size reference chart.
 
+### 🌐 [Roofing Calculator](https://ganak.app/calculators/roofing-calculator/)
+
+Free roofing calculator. Estimate roof area from building dimensions and pitch for gable, hip, flat, and shed roofs. Get roofing squares, material quantities with waste factor, rafter length, and cost estimate for shingles, metal, tile, slate, and wood shakes.
+
 ### 🌐 [Room Square Footage Calculator](https://ganak.app/calculators/room-square-footage-calculator/)
 
 Calculate room or floor area in square feet for flooring, carpet, tile, and paint projects. Enter length and width to get instant area with conversions.
@@ -1159,4 +1163,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-19 · 250 calculators</sub>
+<sub>Last updated: 2026-03-20 · 251 calculators</sub>
