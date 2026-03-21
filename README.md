@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **352+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **360+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -31,7 +31,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [17 calculators](https://ganak.app/calculators/category/construction/)
-- [🔄 Converters](#converters) — [117 calculators](https://ganak.app/calculators/category/converters/)
+- [🔄 Converters](#converters) — [125 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
 - [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
@@ -793,6 +793,14 @@ Body weight converter for fitness and health. Convert between kg, pounds and sto
 
 Convert carats to grams instantly. Free carat to gram converter with quick reference table and formula. 1 carat = 0.2 grams. Used for gemstones and diamonds.
 
+### 🌐 [Celsius to Fahrenheit Converter](https://ganak.app/calculators/celsius-to-fahrenheit-converter/)
+
+Convert Celsius to Fahrenheit instantly. Free °C to °F converter with quick reference table, formula, and common temperature conversions for cooking, weather, and science.
+
+### 🌐 [Celsius to Kelvin Converter](https://ganak.app/calculators/celsius-to-kelvin-converter/)
+
+Convert Celsius to Kelvin instantly. Free °C to K converter with quick reference table and formula. Kelvin = Celsius + 273.15. Used in physics and chemistry.
+
 ### 🌐 [Centimeters to Meters Converter](https://ganak.app/calculators/centimeters-to-meters-converter/)
 
 Convert centimeters to meters instantly. Free cm to m converter with quick reference table and formula. 100 cm = 1 meter.
@@ -816,6 +824,18 @@ Kitchen weight converter for recipes. Convert grams, ounces, pounds, cups, table
 ### 🌐 [Currency Converter](https://ganak.app/calculators/currency-converter/)
 
 Convert 150+ currencies with daily updated exchange rates. Includes 90-day trend charts, reference tables, and instant cross-rate calculations.
+
+### 🌐 [Fahrenheit to Celsius Converter](https://ganak.app/calculators/fahrenheit-to-celsius-converter/)
+
+Convert Fahrenheit to Celsius instantly. Free °F to °C converter with quick reference table, formula, and common temperature conversions for weather, cooking, and travel.
+
+### 🌐 [Fahrenheit to Kelvin Converter](https://ganak.app/calculators/fahrenheit-to-kelvin-converter/)
+
+Convert Fahrenheit to Kelvin instantly. Free °F to K converter with quick reference table and formula. Used for converting US temperatures to scientific units.
+
+### 🌐 [Fahrenheit to Rankine Converter](https://ganak.app/calculators/fahrenheit-to-rankine-converter/)
+
+Convert Fahrenheit to Rankine instantly. Free °F to °R converter with quick reference table and formula. Rankine = Fahrenheit + 459.67. Used in US engineering.
 
 ### 🌐 [Feet to Cm Converter](https://ganak.app/calculators/feet-to-cm-converter/)
 
@@ -928,6 +948,14 @@ Convert inches to meters instantly. Free inches to meters converter with quick r
 ### 🌐 [Inches to Millimeters Converter](https://ganak.app/calculators/inches-to-millimeters-converter/)
 
 Convert inches to millimeters instantly. Free inches to mm converter with quick reference table, formula, and common conversions for engineering and manufacturing.
+
+### 🌐 [Kelvin to Celsius Converter](https://ganak.app/calculators/kelvin-to-celsius-converter/)
+
+Convert Kelvin to Celsius instantly. Free K to °C converter with quick reference table and formula. Celsius = Kelvin − 273.15. Essential for science students.
+
+### 🌐 [Kelvin to Fahrenheit Converter](https://ganak.app/calculators/kelvin-to-fahrenheit-converter/)
+
+Convert Kelvin to Fahrenheit instantly. Free K to °F converter with quick reference table and formula. Used for interpreting scientific temperatures in everyday terms.
 
 ### 🌐 [Kg to Grams Converter](https://ganak.app/calculators/kg-to-grams-converter/)
 
@@ -1136,6 +1164,10 @@ Convert pounds to US short tons instantly. Free lbs to tons converter with quick
 ### 🌐 [Pounds to Troy Ounces Converter](https://ganak.app/calculators/pounds-to-troy-ounces-converter/)
 
 Convert pounds to troy ounces instantly. Free lbs to troy oz converter with quick reference table and formula. 1 lb = 14.5833 troy oz.
+
+### 🌐 [Rankine to Fahrenheit Converter](https://ganak.app/calculators/rankine-to-fahrenheit-converter/)
+
+Convert Rankine to Fahrenheit instantly. Free °R to °F converter with quick reference table and formula. Fahrenheit = Rankine − 459.67.
 
 ### 🌐 [Real Estate Length Converter](https://ganak.app/calculators/real-estate-length-converter/)
 
@@ -1567,4 +1599,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-21 · 352 calculators</sub>
+<sub>Last updated: 2026-03-21 · 360 calculators</sub>
