@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **360+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **364+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,15 +19,15 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [33 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [34 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [6 calculators](https://ganak.app/calculators/category/savings/)
-- [🏦 Loans & EMI](#loans-emi) — [17 calculators](https://ganak.app/calculators/category/loans-and-emi/)
-- [🧾 Tax](#tax) — [22 calculators](https://ganak.app/calculators/category/tax/)
+- [🏦 Loans & EMI](#loans-emi) — [18 calculators](https://ganak.app/calculators/category/loans-and-emi/)
+- [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [8 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [3 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [23 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [24 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [17 calculators](https://ganak.app/calculators/category/construction/)
@@ -124,6 +124,10 @@ Calculate percentage increase or decrease between two values. Find growth rates,
 ### 🌐 [Percentage Difference Calculator](https://ganak.app/calculators/percentage-calculator/difference/)
 
 Calculate percentage difference between two numbers using the average method. Compare prices, salaries, or measurements. Formula: \|A - B\| / ((A + B) / 2) × 100.
+
+### 🌐 [Percentile Calculator](https://ganak.app/calculators/percentile-calculator/)
+
+Free percentile calculator: find the P-th percentile from a dataset, calculate percentile rank of a value, or convert between z-scores and percentiles. Step-by-step solutions.
 
 ### 🌐 [Probability Calculator](https://ganak.app/calculators/probability-calculator/)
 
@@ -293,6 +297,10 @@ Free auto lease calculator. Calculate your auto lease payment with money factor,
 
 Free car lease calculator. Estimate your monthly car lease payment with depreciation, finance charge, and tax breakdown. Compare lease vs buy with schedule.
 
+### 🌐 [DTI Calculator](https://ganak.app/calculators/dti-calculator/)
+
+Free DTI calculator. Calculate your front-end and back-end debt-to-income ratio instantly. See if you qualify for Conventional, FHA, VA, or USDA loans.
+
 ### 🌐 [Lease Calculator](https://ganak.app/calculators/lease-calculator/)
 
 Free lease calculator. Calculate monthly lease payment, total cost, and compare lease vs buy. Enter price, residual value, money factor or APR, and lease term.
@@ -352,6 +360,10 @@ Check personal loan eligibility based on income and existing EMIs. Calculate max
 [⬆ Back to contents](#contents)
 
 ## 🧾 [Tax](https://ganak.app/calculators/category/tax/)
+
+### 🌐 [Inheritance Tax Calculator](https://ganak.app/calculators/inheritance-tax-calculator-uk/)
+
+Free UK inheritance tax calculator. Estimate IHT on your estate with nil-rate band, RNRB, spouse exemption, charity rate, taper relief on gifts, and transferable allowances. Updated for 2025-26.
 
 ### 🌐 [Stamp Duty Calculator AU](https://ganak.app/calculators/au/stamp-duty-calculator/)
 
@@ -548,6 +560,10 @@ Convert A1C to average glucose (eAG), estimate GMI and fructosamine. Includes mg
 ### 🌐 [BAC Calculator](https://ganak.app/calculators/bac-calculator/)
 
 Free BAC calculator using the Widmark formula. Estimate blood alcohol content by weight, gender, and drinks. See current BAC, peak BAC, and time to sober.
+
+### 🌐 [Blood Pressure Calculator](https://ganak.app/calculators/blood-pressure-calculator/)
+
+Free blood pressure calculator with AHA classification, Mean Arterial Pressure (MAP), pulse pressure analysis, and hypertensive crisis detection. Home and clinic thresholds.
 
 ### 🌐 [BMI Calculator](https://ganak.app/calculators/bmi-calculator/)
 
@@ -1599,4 +1615,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-21 · 360 calculators</sub>
+<sub>Last updated: 2026-03-21 · 364 calculators</sub>
