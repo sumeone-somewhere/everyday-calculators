@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **308+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **352+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -31,7 +31,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [17 calculators](https://ganak.app/calculators/category/construction/)
-- [🔄 Converters](#converters) — [73 calculators](https://ganak.app/calculators/category/converters/)
+- [🔄 Converters](#converters) — [117 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
 - [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
@@ -793,6 +793,22 @@ Body weight converter for fitness and health. Convert between kg, pounds and sto
 
 Convert carats to grams instantly. Free carat to gram converter with quick reference table and formula. 1 carat = 0.2 grams. Used for gemstones and diamonds.
 
+### 🌐 [Centimeters to Meters Converter](https://ganak.app/calculators/centimeters-to-meters-converter/)
+
+Convert centimeters to meters instantly. Free cm to m converter with quick reference table and formula. 100 cm = 1 meter.
+
+### 🌐 [Centimeters to Millimeters Converter](https://ganak.app/calculators/centimeters-to-millimeters-converter/)
+
+Convert centimeters to millimeters instantly. Free cm to mm converter with quick reference table and formula. 1 cm = 10 mm exactly.
+
+### 🌐 [Cm to Feet Converter](https://ganak.app/calculators/cm-to-feet-converter/)
+
+Convert centimeters to feet instantly. Free cm to feet converter with quick reference table, formula, and common length conversions for height and construction.
+
+### 🌐 [Cm to Inches Converter](https://ganak.app/calculators/cm-to-inches-converter/)
+
+Convert centimeters to inches instantly. Free cm to inches converter with quick reference table, formula, and common length conversions.
+
 ### 🌐 [Cooking Weight Converter](https://ganak.app/calculators/cooking-weight-converter/)
 
 Kitchen weight converter for recipes. Convert grams, ounces, pounds, cups, tablespoons and teaspoons. Great for scaling recipes and baking.
@@ -800,6 +816,46 @@ Kitchen weight converter for recipes. Convert grams, ounces, pounds, cups, table
 ### 🌐 [Currency Converter](https://ganak.app/calculators/currency-converter/)
 
 Convert 150+ currencies with daily updated exchange rates. Includes 90-day trend charts, reference tables, and instant cross-rate calculations.
+
+### 🌐 [Feet to Cm Converter](https://ganak.app/calculators/feet-to-cm-converter/)
+
+Convert feet to centimeters instantly. Free feet to cm converter with quick reference table, formula, and common length conversions for height and dimensions.
+
+### 🌐 [Feet to Gaj Converter](https://ganak.app/calculators/feet-to-gaj-converter/)
+
+Convert feet to gaj instantly. Free feet to gaj converter with quick reference table and formula. 3 feet = 1 gaj. Used for Indian property measurements.
+
+### 🌐 [Feet to Inches Converter](https://ganak.app/calculators/feet-to-inches-converter/)
+
+Convert feet to inches instantly. Free feet to inches converter with quick reference table and formula. 1 foot = 12 inches exactly.
+
+### 🌐 [Feet to Kilometers Converter](https://ganak.app/calculators/feet-to-kilometers-converter/)
+
+Convert feet to kilometers instantly. Free feet to km converter with quick reference table and formula. 3,280.84 feet = 1 km.
+
+### 🌐 [Feet to Meters Converter](https://ganak.app/calculators/feet-to-meters-converter/)
+
+Convert feet to meters instantly. Free feet to meters converter with quick reference table, formula, and common conversions for construction, sports, and travel.
+
+### 🌐 [Feet to Miles Converter](https://ganak.app/calculators/feet-to-miles-converter/)
+
+Convert feet to miles instantly. Free feet to miles converter with quick reference table and formula. 5280 feet = 1 mile exactly.
+
+### 🌐 [Feet to Millimeters Converter](https://ganak.app/calculators/feet-to-millimeters-converter/)
+
+Convert feet to millimeters instantly. Free ft to mm converter with quick reference table and formula. 1 foot = 304.8 mm exactly.
+
+### 🌐 [Feet to Yards Converter](https://ganak.app/calculators/feet-to-yards-converter/)
+
+Convert feet to yards instantly. Free feet to yards converter with quick reference table and formula. 3 feet = 1 yard exactly.
+
+### 🌐 [Gaj to Feet Converter](https://ganak.app/calculators/gaj-to-feet-converter/)
+
+Convert gaj to feet instantly. Free gaj to feet converter with quick reference table and formula. 1 gaj = 3 feet exactly. Essential for Indian real estate.
+
+### 🌐 [Gaj to Meters Converter](https://ganak.app/calculators/gaj-to-meters-converter/)
+
+Convert gaj to meters instantly. Free gaj to meters converter with quick reference table and formula. 1 gaj = 0.9144 meters. Used in Indian real estate.
 
 ### 🌐 [Gold & Jewelry Weight Converter](https://ganak.app/calculators/gold-jewelry-weight-converter/)
 
@@ -857,6 +913,22 @@ Convert grams to troy ounces instantly. Free g to troy oz converter with quick r
 
 Free GSM calculator for fabric, paper and materials. Calculate g/m² from sample weight or find material weight. Converts GSM to oz/yd² and lbs/ream.
 
+### 🌐 [Inches to Cm Converter](https://ganak.app/calculators/inches-to-cm-converter/)
+
+Convert inches to centimeters instantly. Free inches to cm converter with quick reference table, formula, and common length conversions.
+
+### 🌐 [Inches to Feet Converter](https://ganak.app/calculators/inches-to-feet-converter/)
+
+Convert inches to feet instantly. Free inches to feet converter with quick reference table and formula. 12 inches = 1 foot exactly.
+
+### 🌐 [Inches to Meters Converter](https://ganak.app/calculators/inches-to-meters-converter/)
+
+Convert inches to meters instantly. Free inches to meters converter with quick reference table, formula, and common conversions for engineering and science.
+
+### 🌐 [Inches to Millimeters Converter](https://ganak.app/calculators/inches-to-millimeters-converter/)
+
+Convert inches to millimeters instantly. Free inches to mm converter with quick reference table, formula, and common conversions for engineering and manufacturing.
+
 ### 🌐 [Kg to Grams Converter](https://ganak.app/calculators/kg-to-grams-converter/)
 
 Convert kilograms to grams instantly. Free kg to g converter with quick reference table and formula. 1 kilogram = 1000 grams.
@@ -885,6 +957,26 @@ Convert kilograms to stone instantly. Free kg to stone converter with quick refe
 
 Convert kilograms to metric tonnes instantly. Free kg to tonnes converter with quick reference table and formula. 1000 kg = 1 tonne.
 
+### 🌐 [Kilometers to Feet Converter](https://ganak.app/calculators/kilometers-to-feet-converter/)
+
+Convert kilometers to feet instantly. Free km to feet converter with quick reference table and formula. 1 km = 3,280.84 feet.
+
+### 🌐 [Kilometers to Light Years Converter](https://ganak.app/calculators/kilometers-to-light-years-converter/)
+
+Convert kilometers to light years instantly. Free km to light year converter with quick reference table and formula. 9.461 trillion km = 1 light year.
+
+### 🌐 [Kilometers to Meters Converter](https://ganak.app/calculators/kilometers-to-meters-converter/)
+
+Convert kilometers to meters instantly. Free km to m converter with quick reference table and formula. 1 kilometer = 1000 meters.
+
+### 🌐 [Kilometers to Miles Converter](https://ganak.app/calculators/kilometers-to-miles-converter/)
+
+Convert kilometers to miles instantly. Free km to miles converter with quick reference table, formula, and common distance conversions for travel and running.
+
+### 🌐 [Kilometers to Nautical Miles Converter](https://ganak.app/calculators/kilometers-to-nautical-miles-converter/)
+
+Convert kilometers to nautical miles instantly. Free km to nautical miles converter with quick reference table and formula. 1.852 km = 1 nautical mile.
+
 ### 🌐 [Lbs to Kg Converter](https://ganak.app/calculators/lbs-to-kg-converter/)
 
 Convert pounds to kilograms instantly. Free lbs to kg converter with quick reference table, formula, and common weight conversions for fitness, travel, and shipping.
@@ -893,9 +985,41 @@ Convert pounds to kilograms instantly. Free lbs to kg converter with quick refer
 
 Free length converter for 20+ units: cm, meters, km, feet, inches, miles, yards and more. Instant bidirectional conversion with high precision.
 
+### 🌐 [Light Years to Kilometers Converter](https://ganak.app/calculators/light-years-to-kilometers-converter/)
+
+Convert light years to kilometers instantly. Free light year to km converter with quick reference table and formula. 1 light year = 9.461 trillion km.
+
 ### 🌐 [Mcg to Mg Converter](https://ganak.app/calculators/mcg-to-mg-converter/)
 
 Convert micrograms (mcg/μg) to milligrams instantly. Free mcg to mg converter with quick reference table and formula. 1000 mcg = 1 mg.
+
+### 🌐 [Meters to Centimeters Converter](https://ganak.app/calculators/meters-to-centimeters-converter/)
+
+Convert meters to centimeters instantly. Free m to cm converter with quick reference table and formula. 1 meter = 100 centimeters.
+
+### 🌐 [Meters to Feet Converter](https://ganak.app/calculators/meters-to-feet-converter/)
+
+Convert meters to feet instantly. Free meters to feet converter with quick reference table, formula, and common conversions for height, construction, and elevation.
+
+### 🌐 [Meters to Gaj Converter](https://ganak.app/calculators/meters-to-gaj-converter/)
+
+Convert meters to gaj instantly. Free meters to gaj converter with quick reference table and formula. 1 meter = 1.09361 gaj. Used in Indian real estate.
+
+### 🌐 [Meters to Inches Converter](https://ganak.app/calculators/meters-to-inches-converter/)
+
+Convert meters to inches instantly. Free meters to inches converter with quick reference table, formula, and common conversions for construction and design.
+
+### 🌐 [Meters to Kilometers Converter](https://ganak.app/calculators/meters-to-kilometers-converter/)
+
+Convert meters to kilometers instantly. Free m to km converter with quick reference table and formula. 1000 meters = 1 kilometer.
+
+### 🌐 [Meters to Miles Converter](https://ganak.app/calculators/meters-to-miles-converter/)
+
+Convert meters to miles instantly. Free meters to miles converter with quick reference table, formula, and common conversions for running and athletics.
+
+### 🌐 [Meters to Yards Converter](https://ganak.app/calculators/meters-to-yards-converter/)
+
+Convert meters to yards instantly. Free meters to yards converter with quick reference table and formula. 1 meter = 1.09361 yards.
 
 ### 🌐 [Mg to Grams Converter](https://ganak.app/calculators/mg-to-grams-converter/)
 
@@ -913,6 +1037,26 @@ Convert milligrams to micrograms (mcg/μg) instantly. Free mg to mcg converter w
 
 Convert micrograms (mcg/μg) to grams instantly. Free mcg to g converter with quick reference table and formula. 1,000,000 mcg = 1 gram.
 
+### 🌐 [Micrometers to Millimeters Converter](https://ganak.app/calculators/micrometers-to-millimeters-converter/)
+
+Convert micrometers (microns) to millimeters instantly. Free μm to mm converter with quick reference table and formula. 1000 μm = 1 mm.
+
+### 🌐 [Miles to Feet Converter](https://ganak.app/calculators/miles-to-feet-converter/)
+
+Convert miles to feet instantly. Free miles to feet converter with quick reference table and formula. 1 mile = 5280 feet exactly.
+
+### 🌐 [Miles to Kilometers Converter](https://ganak.app/calculators/miles-to-kilometers-converter/)
+
+Convert miles to kilometers instantly. Free miles to km converter with quick reference table, formula, and common distance conversions for driving and running.
+
+### 🌐 [Miles to Meters Converter](https://ganak.app/calculators/miles-to-meters-converter/)
+
+Convert miles to meters instantly. Free miles to meters converter with quick reference table, formula, and common conversions for athletics and engineering.
+
+### 🌐 [Miles to Yards Converter](https://ganak.app/calculators/miles-to-yards-converter/)
+
+Convert miles to yards instantly. Free miles to yards converter with quick reference table and formula. 1 mile = 1,760 yards.
+
 ### 🌐 [Milligrams to Ounces Converter](https://ganak.app/calculators/milligrams-to-ounces-converter/)
 
 Convert milligrams to ounces instantly. Free mg to oz converter with quick reference table and formula. 28,349.5 mg = 1 oz.
@@ -920,6 +1064,26 @@ Convert milligrams to ounces instantly. Free mg to oz converter with quick refer
 ### 🌐 [Milligrams to Pounds Converter](https://ganak.app/calculators/milligrams-to-pounds-converter/)
 
 Convert milligrams to pounds instantly. Free mg to lbs converter with quick reference table and formula. 453,592.37 mg = 1 pound.
+
+### 🌐 [Millimeters to Centimeters Converter](https://ganak.app/calculators/millimeters-to-centimeters-converter/)
+
+Convert millimeters to centimeters instantly. Free mm to cm converter with quick reference table and formula. 10 mm = 1 cm exactly.
+
+### 🌐 [Millimeters to Feet Converter](https://ganak.app/calculators/millimeters-to-feet-converter/)
+
+Convert millimeters to feet instantly. Free mm to ft converter with quick reference table and formula. 304.8 mm = 1 foot.
+
+### 🌐 [Millimeters to Inches Converter](https://ganak.app/calculators/millimeters-to-inches-converter/)
+
+Convert millimeters to inches instantly. Free mm to inches converter with quick reference table, formula, and common conversions for tools and hardware.
+
+### 🌐 [Millimeters to Micrometers Converter](https://ganak.app/calculators/millimeters-to-micrometers-converter/)
+
+Convert millimeters to micrometers (microns) instantly. Free mm to μm converter with quick reference table and formula. 1 mm = 1000 μm.
+
+### 🌐 [Nautical Miles to Kilometers Converter](https://ganak.app/calculators/nautical-miles-to-kilometers-converter/)
+
+Convert nautical miles to kilometers instantly. Free nautical miles to km converter with quick reference table and formula. 1 nautical mile = 1.852 km.
 
 ### 🌐 [Ounces to Grams Converter](https://ganak.app/calculators/ounces-to-grams-converter/)
 
@@ -1064,6 +1228,18 @@ Convert troy ounces to pounds instantly. Free troy oz to lbs converter with quic
 ### 🌐 [Weight Converter Calculator](https://ganak.app/calculators/weight-converter/)
 
 Free weight converter for 15+ units: kg, grams, pounds, ounces, stone, tonnes and more. Instant bidirectional conversion with 6 decimal places.
+
+### 🌐 [Yards to Feet Converter](https://ganak.app/calculators/yards-to-feet-converter/)
+
+Convert yards to feet instantly. Free yards to feet converter with quick reference table and formula. 1 yard = 3 feet exactly.
+
+### 🌐 [Yards to Meters Converter](https://ganak.app/calculators/yards-to-meters-converter/)
+
+Convert yards to meters instantly. Free yards to meters converter with quick reference table and formula. 1 yard = 0.9144 meters exactly.
+
+### 🌐 [Yards to Miles Converter](https://ganak.app/calculators/yards-to-miles-converter/)
+
+Convert yards to miles instantly. Free yards to miles converter with quick reference table and formula. 1,760 yards = 1 mile.
 
 ### 🇮🇳 [Hectare to Bigha Converter](https://ganak.app/calculators/india/hectare-to-bigha-converter/)
 
@@ -1391,4 +1567,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-20 · 308 calculators</sub>
+<sub>Last updated: 2026-03-21 · 352 calculators</sub>
