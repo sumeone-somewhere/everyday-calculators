@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **364+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **366+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -22,7 +22,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🔢 Math](#math) — [34 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [6 calculators](https://ganak.app/calculators/category/savings/)
-- [🏦 Loans & EMI](#loans-emi) — [18 calculators](https://ganak.app/calculators/category/loans-and-emi/)
+- [🏦 Loans & EMI](#loans-emi) — [19 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [8 calculators](https://ganak.app/calculators/category/salary/)
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [24 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [17 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [18 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [125 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -300,6 +300,10 @@ Free car lease calculator. Estimate your monthly car lease payment with deprecia
 ### 🌐 [DTI Calculator](https://ganak.app/calculators/dti-calculator/)
 
 Free DTI calculator. Calculate your front-end and back-end debt-to-income ratio instantly. See if you qualify for Conventional, FHA, VA, or USDA loans.
+
+### 🌐 [HELOC Calculator](https://ganak.app/calculators/us/heloc-calculator/)
+
+Free HELOC calculator with draw and repayment periods. See interest-only vs P&I payments, payment shock warning, amortization schedule, and rate sensitivity analysis.
 
 ### 🌐 [Lease Calculator](https://ganak.app/calculators/lease-calculator/)
 
@@ -780,6 +784,10 @@ Calculate area for irregular shapes: rectangles, circles, rings, triangles, trap
 ### 🌐 [Soil Calculator](https://ganak.app/calculators/soil-calculator/)
 
 Estimate soil volume in cubic yards or meters for gardens, raised beds, and landscaping. Includes bag count, weight, and cost for topsoil and more.
+
+### 🌐 [Solar Panel Calculator](https://ganak.app/calculators/solar-panel-calculator/)
+
+Free solar panel calculator. Estimate system size, number of panels, installation cost, payback period, and 25-year savings with monthly production chart.
 
 ### 🌐 [Square Footage Calculator](https://ganak.app/calculators/square-footage-calculator/)
 
@@ -1615,4 +1623,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-21 · 364 calculators</sub>
+<sub>Last updated: 2026-03-22 · 366 calculators</sub>
