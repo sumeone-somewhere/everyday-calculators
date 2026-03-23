@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **368+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **369+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -26,7 +26,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [9 calculators](https://ganak.app/calculators/category/salary/)
-- [🏖️ Retirement](#retirement) — [3 calculators](https://ganak.app/calculators/category/retirement/)
+- [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [24 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
@@ -556,6 +556,10 @@ Free retirement calculator to project your corpus, sustainable monthly income, a
 ### 🇺🇸 [401(k) Retirement Calculator](https://ganak.app/calculators/us/401k-retirement-calculator/)
 
 401(k) calculator with RMDs, employer match, tax implications, and withdrawal strategies (4% rule, fixed income, RMD-only). Plan retirement income.
+
+### 🇺🇸 [Roth IRA Calculator](https://ganak.app/calculators/us/roth-ira-calculator/)
+
+Free Roth IRA calculator. Project tax-free growth, check income eligibility, compare Roth vs Traditional IRA, and see catch-up contributions at age 50+.
 
 ### 🇬🇧 [UK Pension Calculator](https://ganak.app/calculators/uk/pension-calculator/)
 
@@ -1631,4 +1635,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-23 · 368 calculators</sub>
+<sub>Last updated: 2026-03-23 · 369 calculators</sub>
