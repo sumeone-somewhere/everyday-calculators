@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **366+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **368+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -22,10 +22,10 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🔢 Math](#math) — [34 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [6 calculators](https://ganak.app/calculators/category/savings/)
-- [🏦 Loans & EMI](#loans-emi) — [19 calculators](https://ganak.app/calculators/category/loans-and-emi/)
+- [🏦 Loans & EMI](#loans-emi) — [20 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
-- [💵 Salary](#salary) — [8 calculators](https://ganak.app/calculators/category/salary/)
+- [💵 Salary](#salary) — [9 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [3 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [24 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
@@ -317,6 +317,10 @@ Generate a complete loan amortization schedule. See how each payment splits betw
 
 Calculate your mortgage amortization schedule with extra payments. See principal vs interest breakdown and cross-over point. Bi-weekly payments supported.
 
+### 🌐 [Refinance Calculator](https://ganak.app/calculators/us/refinance-calculator/)
+
+Free refinance calculator with break-even analysis, monthly savings, and amortization comparison. See if refinancing your mortgage is worth it with cash-out support.
+
 ### 🇮🇳 [Car Loan EMI Calculator](https://ganak.app/calculators/india/car-loan-emi-calculator/)
 
 Free car loan EMI calculator for India. Calculate monthly EMI, total interest, and amortization schedule. Compare tenures and bank-wise rates with prepayment.
@@ -516,6 +520,10 @@ Free hourly to salary calculator. Convert hourly wage to annual salary, monthly,
 ### 🌐 [Overtime Pay Calculator](https://ganak.app/calculators/overtime-pay-calculator/)
 
 Free overtime pay calculator. Calculate overtime earnings with time-and-a-half, double time, or custom multipliers. See regular pay, OT pay, and total gross.
+
+### 🌐 [Payroll Calculator](https://ganak.app/calculators/payroll-calculator/)
+
+Free payroll calculator for US, Canada, UK, Australia & Malaysia. Calculate take-home pay with federal, state, and provincial taxes. All deductions included.
 
 ### 🌐 [Salary Hike Calculator](https://ganak.app/calculators/salary-hike-calculator/)
 
@@ -1623,4 +1631,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-22 · 366 calculators</sub>
+<sub>Last updated: 2026-03-23 · 368 calculators</sub>
