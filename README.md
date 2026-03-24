@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **369+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **370+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [9 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [24 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [25 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [18 calculators](https://ganak.app/calculators/category/construction/)
@@ -628,6 +628,10 @@ Calculate estimated life expectancy based on age, gender, country, and lifestyle
 ### 🌐 [Macro Calculator](https://ganak.app/calculators/macro-calculator/)
 
 Free macro calculator. Find your ideal daily protein, carbs, and fat based on body stats and goals. Preset plans: Balanced, Low Carb, Keto, and more.
+
+### 🌐 [MAP Calculator](https://ganak.app/calculators/map-calculator/)
+
+Free MAP calculator with instant results. Calculate Mean Arterial Pressure from systolic and diastolic BP. Includes pulse pressure, BP classification, and clinical interpretation.
 
 ### 🌐 [Ovulation Calculator](https://ganak.app/calculators/ovulation-calculator/)
 
@@ -1635,4 +1639,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-23 · 369 calculators</sub>
+<sub>Last updated: 2026-03-24 · 370 calculators</sub>
