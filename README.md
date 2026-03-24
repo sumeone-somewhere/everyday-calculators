@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **392+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **393+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [9 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [25 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [26 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [18 calculators](https://ganak.app/calculators/category/construction/)
@@ -637,6 +637,10 @@ Free MAP calculator with instant results. Calculate Mean Arterial Pressure from 
 ### 🌐 [Ovulation Calculator](https://ganak.app/calculators/ovulation-calculator/)
 
 Free ovulation calculator. Enter last period date and cycle length for a 6-month fertility calendar with ovulation dates, fertile windows, and due dates.
+
+### 🌐 [Peptide Calculator](https://ganak.app/calculators/peptide-calculator/)
+
+Free peptide calculator. Calculate reconstitution dosage, syringe units, and concentration from vial size and BAC water. See doses per vial and days supply.
 
 ### 🌐 [Period Calculator](https://ganak.app/calculators/period-calculator/)
 
@@ -1732,4 +1736,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-24 · 392 calculators</sub>
+<sub>Last updated: 2026-03-24 · 393 calculators</sub>
