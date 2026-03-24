@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **393+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **394+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [26 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [18 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [19 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -761,6 +761,10 @@ Free brick calculator. Enter wall dimensions to get brick count, mortar, sand, w
 ### 🌐 [Concrete Calculator](https://ganak.app/calculators/concrete-calculator/)
 
 Estimate concrete volume in yards, feet, or meters for slabs, footings, walls, and columns. Includes bag count and cost estimates.
+
+### 🌐 [Drywall Calculator](https://ganak.app/calculators/drywall-calculator/)
+
+Free drywall calculator. Enter room dimensions to get sheets needed, joint compound, tape, screws, weight, and cost. Supports 4 sheet sizes with waste factor.
 
 ### 🌐 [Fence Calculator](https://ganak.app/calculators/fence-calculator/)
 
@@ -1736,4 +1740,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-24 · 393 calculators</sub>
+<sub>Last updated: 2026-03-24 · 394 calculators</sub>
