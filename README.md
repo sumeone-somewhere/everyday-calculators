@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **370+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **372+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -31,7 +31,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [18 calculators](https://ganak.app/calculators/category/construction/)
-- [🔄 Converters](#converters) — [125 calculators](https://ganak.app/calculators/category/converters/)
+- [🔄 Converters](#converters) — [126 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
 - [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
@@ -44,6 +44,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [6 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
+- [📌 Tools](#tools) — [1 calculator](https://ganak.app/calculators/category/tools/)
 
 ---
 
@@ -865,6 +866,10 @@ Kitchen weight converter for recipes. Convert grams, ounces, pounds, cups, table
 
 Convert 150+ currencies with daily updated exchange rates. Includes 90-day trend charts, reference tables, and instant cross-rate calculations.
 
+### 🌐 [Data Size Converter](https://ganak.app/calculators/data-size-converter/)
+
+Free data size converter for Bytes, KB, MB, GB, TB, PB and Exabytes. Supports binary (1024) and decimal (1000) standards with transfer time estimates.
+
 ### 🌐 [Fahrenheit to Celsius Converter](https://ganak.app/calculators/fahrenheit-to-celsius-converter/)
 
 Convert Fahrenheit to Celsius instantly. Free °F to °C converter with quick reference table, formula, and common temperature conversions for weather, cooking, and travel.
@@ -1627,6 +1632,14 @@ Free ABV calculator for beer, wine, mead, and cocktails. Calculate alcohol by vo
 
 [⬆ Back to contents](#contents)
 
+## 📌 [Tools](https://ganak.app/calculators/category/tools/)
+
+### 🌐 [Case Converter](https://ganak.app/calculators/case-converter/)
+
+Free online case converter tool. Convert text to UPPERCASE, lowercase, Title Case, Sentence case, camelCase, snake_case, kebab-case, and more. Instant results with word and character count.
+
+[⬆ Back to contents](#contents)
+
 ---
 
 ## Suggest a Calculator
@@ -1639,4 +1652,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-24 · 370 calculators</sub>
+<sub>Last updated: 2026-03-24 · 372 calculators</sub>
