@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **395+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **396+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [26 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [19 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -785,6 +785,10 @@ Calculate total square footage for multiple rooms at once. Add rooms with quanti
 ### 🌐 [Paint Calculator](https://ganak.app/calculators/paint-calculator/)
 
 Free paint calculator. Enter room or house dimensions to get exact gallons needed, quart breakdown, primer estimate, and cost for any surface.
+
+### 🌐 [Pool Volume Calculator](https://ganak.app/calculators/pool-volume-calculator/)
+
+Free pool volume calculator for rectangular, round, oval, kidney & L-shaped pools. Get gallons, liters, cubic feet with variable depth. Works for above-ground & in-ground.
 
 ### 🌐 [Rebar Calculator](https://ganak.app/calculators/rebar-calculator/)
 
@@ -1744,4 +1748,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-25 · 395 calculators</sub>
+<sub>Last updated: 2026-03-25 · 396 calculators</sub>
