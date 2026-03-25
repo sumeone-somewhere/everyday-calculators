@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **396+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **397+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -29,7 +29,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [26 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
-- [📅 Date & Time](#date-time) — [12 calculators](https://ganak.app/calculators/category/date-and-time/)
+- [📅 Date & Time](#date-time) — [13 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
@@ -733,6 +733,10 @@ Calculate hours worked between any two times with break deduction. Weekly Timeca
 ### 🌐 [Military Time Converter](https://ganak.app/calculators/military-time-converter/)
 
 Convert military time to standard time and back. Bidirectional 24-hour to 12-hour AM/PM converter with pronunciation and full conversion chart.
+
+### 🌐 [Time Zone Converter](https://ganak.app/calculators/time-zone-converter/)
+
+Convert time between any two time zones with DST handling. See UTC offsets, time differences, and working hours overlap. Free, fast, and accurate.
 
 ### 🌐 [Week Number Calculator](https://ganak.app/calculators/date-calculator/week-number/)
 
@@ -1748,4 +1752,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-25 · 396 calculators</sub>
+<sub>Last updated: 2026-03-25 · 397 calculators</sub>
