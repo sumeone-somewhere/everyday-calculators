@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **394+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **395+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -44,7 +44,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [6 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
-- [📌 Tools](#tools) — [1 calculator](https://ganak.app/calculators/category/tools/)
+- [📌 Tools](#tools) — [2 calculators](https://ganak.app/calculators/category/tools/)
 
 ---
 
@@ -1726,6 +1726,10 @@ Free ABV calculator for beer, wine, mead, and cocktails. Calculate alcohol by vo
 
 Free online case converter tool. Convert text to UPPERCASE, lowercase, Title Case, Sentence case, camelCase, snake_case, kebab-case, and more. Instant results with word and character count.
 
+### 🌐 [IBAN Validator](https://ganak.app/calculators/iban-validator/)
+
+Free IBAN validator with real-time MOD-97 checksum verification. Validates 75+ countries, shows IBAN breakdown (bank code, branch, account), SEPA status, and country-specific format details.
+
 [⬆ Back to contents](#contents)
 
 ---
@@ -1740,4 +1744,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-24 · 394 calculators</sub>
+<sub>Last updated: 2026-03-25 · 395 calculators</sub>
