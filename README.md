@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **397+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **398+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -45,6 +45,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📦 Others](#others) — [6 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [2 calculators](https://ganak.app/calculators/category/tools/)
+- [📌 Science](#science) — [1 calculator](https://ganak.app/calculators/category/science/)
 
 ---
 
@@ -1740,6 +1741,14 @@ Free IBAN validator with real-time MOD-97 checksum verification. Validates 75+ c
 
 [⬆ Back to contents](#contents)
 
+## 📌 [Science](https://ganak.app/calculators/category/science/)
+
+### 🌐 [Molarity Calculator](https://ganak.app/calculators/molarity-calculator/)
+
+Calculate molarity, mass, volume, or molecular weight of any solution. Includes dilution calculator (M₁V₁=M₂V₂), common compound library, and step-by-step formula breakdown.
+
+[⬆ Back to contents](#contents)
+
 ---
 
 ## Suggest a Calculator
@@ -1752,4 +1761,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-25 · 397 calculators</sub>
+<sub>Last updated: 2026-03-26 · 398 calculators</sub>
