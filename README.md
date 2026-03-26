@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **398+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **400+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -45,7 +45,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📦 Others](#others) — [6 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [2 calculators](https://ganak.app/calculators/category/tools/)
-- [📌 Science](#science) — [1 calculator](https://ganak.app/calculators/category/science/)
+- [📌 Science](#science) — [3 calculators](https://ganak.app/calculators/category/science/)
 
 ---
 
@@ -1743,6 +1743,14 @@ Free IBAN validator with real-time MOD-97 checksum verification. Validates 75+ c
 
 ## 📌 [Science](https://ganak.app/calculators/category/science/)
 
+### 🌐 [Hardy Weinberg Equilibrium Calculator](https://ganak.app/calculators/hardy-weinberg-calculator/)
+
+Calculate Hardy-Weinberg equilibrium genotype frequencies (p², 2pq, q²), carrier rates, and chi-square test. Enter allele frequencies, genotype counts, or disease prevalence.
+
+### 🌐 [Kinetic Energy Calculator](https://ganak.app/calculators/kinetic-energy-calculator/)
+
+Calculate kinetic energy, mass, or velocity using KE = ½mv². Supports metric and imperial units with step-by-step solutions, real-world presets, and energy equivalences.
+
 ### 🌐 [Molarity Calculator](https://ganak.app/calculators/molarity-calculator/)
 
 Calculate molarity, mass, volume, or molecular weight of any solution. Includes dilution calculator (M₁V₁=M₂V₂), common compound library, and step-by-step formula breakdown.
@@ -1761,4 +1769,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-26 · 398 calculators</sub>
+<sub>Last updated: 2026-03-26 · 400 calculators</sub>
