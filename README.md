@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **400+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **401+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -29,7 +29,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [26 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
-- [📅 Date & Time](#date-time) — [13 calculators](https://ganak.app/calculators/category/date-and-time/)
+- [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
@@ -726,6 +726,10 @@ Calculate exact duration between two dates in years, months, weeks, days, and ho
 ### 🌐 [Days Calculator](https://ganak.app/calculators/days-calculator/)
 
 Calculate days between two dates or add/subtract days from any date. Shows total days, weeks, months, weekdays, and weekend days. Inclusive/exclusive counting.
+
+### 🌐 [Epoch Converter](https://ganak.app/calculators/epoch-converter/)
+
+Free epoch converter. Convert Unix timestamps to human-readable dates and back. Supports seconds, milliseconds, timezones, and ISO 8601 format.
 
 ### 🌐 [Hours Calculator](https://ganak.app/calculators/hours-calculator/)
 
@@ -1769,4 +1773,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-27 · 400 calculators</sub>
+<sub>Last updated: 2026-03-27 · 401 calculators</sub>
