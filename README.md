@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **401+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **402+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -42,7 +42,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🎯 Probability](#probability) — [2 calculators](https://ganak.app/calculators/category/probability/)
 - [👗 Styling](#styling) — [8 calculators](https://ganak.app/calculators/category/styling/)
 - [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
-- [📦 Others](#others) — [6 calculators](https://ganak.app/calculators/category/others/)
+- [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [2 calculators](https://ganak.app/calculators/category/tools/)
 - [📌 Science](#science) — [3 calculators](https://ganak.app/calculators/category/science/)
@@ -1699,6 +1699,10 @@ Calculate SSY maturity amount for girl child savings in India. Plan yearly depos
 
 ## 📦 [Others](https://ganak.app/calculators/category/others/)
 
+### 🌐 [Carbon Footprint Calculator](https://ganak.app/calculators/carbon-footprint-calculator/)
+
+Free carbon footprint calculator. Estimate your annual CO₂ emissions from home energy, transportation, food, shopping, and waste. Supports 11 currencies with region-specific emission factors.
+
 ### 🌐 [Discount Calculator](https://ganak.app/calculators/discount-calculator/)
 
 Free discount calculator with BOGO, stacked discounts (20% + 10%), tax, and reverse price. Calculate percentage off, flat discounts, and compare deals.
@@ -1773,4 +1777,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-27 · 401 calculators</sub>
+<sub>Last updated: 2026-03-27 · 402 calculators</sub>
