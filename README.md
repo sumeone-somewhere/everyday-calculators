@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **402+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **403+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -44,7 +44,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
-- [📌 Tools](#tools) — [2 calculators](https://ganak.app/calculators/category/tools/)
+- [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
 - [📌 Science](#science) — [3 calculators](https://ganak.app/calculators/category/science/)
 
 ---
@@ -1747,6 +1747,10 @@ Free online case converter tool. Convert text to UPPERCASE, lowercase, Title Cas
 
 Free IBAN validator with real-time MOD-97 checksum verification. Validates 75+ countries, shows IBAN breakdown (bank code, branch, account), SEPA status, and country-specific format details.
 
+### 🌐 [JSON Converter](https://ganak.app/calculators/json-converter/)
+
+Free online JSON converter. Format, beautify, minify, and validate JSON. Convert between JSON, CSV, YAML, and XML with instant results and JSON statistics.
+
 [⬆ Back to contents](#contents)
 
 ## 📌 [Science](https://ganak.app/calculators/category/science/)
@@ -1777,4 +1781,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-27 · 402 calculators</sub>
+<sub>Last updated: 2026-03-27 · 403 calculators</sub>
