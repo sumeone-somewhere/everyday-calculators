@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **403+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **404+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -39,7 +39,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [✈️ Travel](#travel) — [2 calculators](https://ganak.app/calculators/category/travel/)
 - [🎲 Fun](#fun) — [3 calculators](https://ganak.app/calculators/category/fun/)
 - [🔮 Spirituality](#spirituality) — [16 calculators](https://ganak.app/calculators/category/spirituality/)
-- [🎯 Probability](#probability) — [2 calculators](https://ganak.app/calculators/category/probability/)
+- [🎯 Probability](#probability) — [3 calculators](https://ganak.app/calculators/category/probability/)
 - [👗 Styling](#styling) — [8 calculators](https://ganak.app/calculators/category/styling/)
 - [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
@@ -1643,6 +1643,10 @@ Free blackjack calculator: get optimal strategy for any hand, view the basic str
 
 Free odds calculator: convert American, decimal & fractional odds, calculate payouts, find implied probability, remove vig and compute parlays.
 
+### 🌐 [Parlay Calculator](https://ganak.app/calculators/parlay-calculator/)
+
+Free parlay calculator with 11 currencies: enter American, decimal, or fractional odds for up to 15 legs to instantly calculate combined odds, total payout, profit, and implied probability.
+
 [⬆ Back to contents](#contents)
 
 ## 👗 [Styling](https://ganak.app/calculators/category/styling/)
@@ -1781,4 +1785,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-27 · 403 calculators</sub>
+<sub>Last updated: 2026-03-28 · 404 calculators</sub>
