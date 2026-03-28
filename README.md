@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **405+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **406+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -21,7 +21,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 - [🔢 Math](#math) — [34 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
-- [💰 Savings](#savings) — [6 calculators](https://ganak.app/calculators/category/savings/)
+- [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [20 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
@@ -278,6 +278,10 @@ Free CD calculator. Calculate certificate of deposit interest, maturity amount, 
 ### 🇮🇳 [FD Calculator](https://ganak.app/calculators/india/fd-calculator/)
 
 Calculate FD maturity amount and interest for Indian banks. Compare rates across banks. Supports quarterly, monthly, and cumulative payout with TDS calculation.
+
+### 🇺🇸 [High Yield Savings Calculator](https://ganak.app/calculators/us/high-yield-savings-calculator/)
+
+Free HYSA calculator. Project savings growth with daily compounding, recurring deposits, annual escalation, and tax impact. Compare rates and FDIC alert.
 
 ### 🇮🇳 [RD Calculator](https://ganak.app/calculators/india/rd-calculator/)
 
@@ -1789,4 +1793,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-28 · 405 calculators</sub>
+<sub>Last updated: 2026-03-28 · 406 calculators</sub>
