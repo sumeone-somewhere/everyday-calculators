@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **406+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **407+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -22,7 +22,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🔢 Math](#math) — [34 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
-- [🏦 Loans & EMI](#loans-emi) — [20 calculators](https://ganak.app/calculators/category/loans-and-emi/)
+- [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [10 calculators](https://ganak.app/calculators/category/salary/)
@@ -302,6 +302,10 @@ Free auto lease calculator. Calculate your auto lease payment with money factor,
 ### 🌐 [Car Lease Calculator](https://ganak.app/calculators/car-lease-calculator/)
 
 Free car lease calculator. Estimate your monthly car lease payment with depreciation, finance charge, and tax breakdown. Compare lease vs buy with schedule.
+
+### 🌐 [Closing Cost Calculator](https://ganak.app/calculators/us/closing-cost-calculator/)
+
+Free closing cost calculator for buyers and sellers. Estimate lender fees, title insurance, transfer taxes, and prepaids by state. FHA, VA, cash supported.
 
 ### 🌐 [DTI Calculator](https://ganak.app/calculators/dti-calculator/)
 
@@ -1793,4 +1797,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-28 · 406 calculators</sub>
+<sub>Last updated: 2026-03-28 · 407 calculators</sub>
