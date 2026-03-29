@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **407+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **408+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -24,7 +24,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
-- [💼 Business](#business) — [10 calculators](https://ganak.app/calculators/category/business/)
+- [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [10 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [26 calculators](https://ganak.app/calculators/category/health/)
@@ -510,6 +510,10 @@ Calculate markup percentage, selling price, or cost price. Essential for retail,
 ### 🌐 [Net Profit Margin Calculator](https://ganak.app/calculators/net-profit-margin-calculator/)
 
 Calculate net profit margin from revenue and expenses. See gross, operating, and net margins side by side with industry benchmarks.
+
+### 🌐 [Timesheet Calculator](https://ganak.app/calculators/timesheet-calculator/)
+
+Free timesheet calculator with weekly and biweekly support. Calculate work hours, overtime, and gross pay with auto lunch deduction and time rounding.
 
 ### 🇺🇸 [PayPal Fee Calculator](https://ganak.app/calculators/paypal-fee-calculator/)
 
@@ -1797,4 +1801,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-28 · 407 calculators</sub>
+<sub>Last updated: 2026-03-29 · 408 calculators</sub>
