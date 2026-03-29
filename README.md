@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **408+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **409+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -46,6 +46,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
 - [📌 Science](#science) — [3 calculators](https://ganak.app/calculators/category/science/)
+- [📌 Legal](#legal) — [1 calculator](https://ganak.app/calculators/category/legal/)
 
 ---
 
@@ -1789,6 +1790,14 @@ Calculate molarity, mass, volume, or molecular weight of any solution. Includes 
 
 [⬆ Back to contents](#contents)
 
+## 📌 [Legal](https://ganak.app/calculators/category/legal/)
+
+### 🌐 [Alimony Calculator](https://ganak.app/calculators/alimony-calculator/)
+
+Estimate alimony and spousal support payments. Uses state-specific formulas and guidelines for 11 US states, judicial benchmarks for the rest, and India maintenance guidelines.
+
+[⬆ Back to contents](#contents)
+
 ---
 
 ## Suggest a Calculator
@@ -1801,4 +1810,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-29 · 408 calculators</sub>
+<sub>Last updated: 2026-03-29 · 409 calculators</sub>
