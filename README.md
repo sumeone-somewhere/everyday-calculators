@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **409+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **410+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [10 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [26 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [27 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
@@ -619,6 +619,10 @@ Free calorie calculator. Find daily calorie needs for weight loss, maintenance, 
 ### 🌐 [Calorie Deficit Calculator](https://ganak.app/calculators/calorie-deficit-calculator/)
 
 Free calorie deficit calculator. Enter stats and goal weight to get daily calorie target, deficit amount, timeline, and weight loss projection chart.
+
+### 🌐 [CHA₂DS₂-VASc Calculator](https://ganak.app/calculators/chadsvasc-calculator/)
+
+Free CHA₂DS₂-VASc calculator for AF stroke risk. Get score, annual stroke rate, and anticoagulation guidance per 2023 ACC/AHA. Includes HAS-BLED.
 
 ### 🌐 [Creatinine Clearance Calculator](https://ganak.app/calculators/creatinine-clearance-calculator/)
 
@@ -1810,4 +1814,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-29 · 409 calculators</sub>
+<sub>Last updated: 2026-03-29 · 410 calculators</sub>
