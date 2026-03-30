@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **411+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **412+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [34 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [35 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -187,6 +187,10 @@ Calculate volume for 10 shapes: cubes, cylinders, spheres, cones, pyramids, and 
 ### 🌐 [Weighted Average Calculator](https://ganak.app/calculators/weighted-average-calculator/)
 
 Calculate weighted average with value-weight pairs, grade credit hours, or percentage weights. Compare weighted vs simple average with step-by-step formulas.
+
+### 🌐 [Z-Score Calculator](https://ganak.app/calculators/z-score-calculator/)
+
+Free z-score calculator. Compute z-scores from raw values, find probabilities from z-scores, or convert p-values back to z. Sample z-score, percentile, and tail areas.
 
 [⬆ Back to contents](#contents)
 
@@ -1818,4 +1822,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-30 · 411 calculators</sub>
+<sub>Last updated: 2026-03-30 · 412 calculators</sub>
