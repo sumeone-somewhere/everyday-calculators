@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **410+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **411+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -25,7 +25,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
-- [💵 Salary](#salary) — [10 calculators](https://ganak.app/calculators/category/salary/)
+- [💵 Salary](#salary) — [11 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [27 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
@@ -555,6 +555,10 @@ Project your salary growth across multiple years with percentage raises, promoti
 ### 🌐 [Salary to Hourly Calculator](https://ganak.app/calculators/salary-to-hourly-calculator/)
 
 Free salary to hourly calculator. Convert annual salary, monthly, or weekly pay to an hourly rate with customizable hours per week and weeks per year.
+
+### 🌐 [UK Take Home Pay Calculator](https://ganak.app/calculators/uk/take-home-pay-calculator/)
+
+Free UK take home pay calculator for 2025/26. Calculate your net salary after income tax, National Insurance, student loan & pension. England & Scotland tax bands.
 
 ### 🇮🇳 [Gratuity Calculator](https://ganak.app/calculators/india/gratuity-calculator/)
 
@@ -1814,4 +1818,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-03-29 · 410 calculators</sub>
+<sub>Last updated: 2026-03-30 · 411 calculators</sub>
