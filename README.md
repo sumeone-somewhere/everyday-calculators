@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **413+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **414+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [35 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [36 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -67,6 +67,10 @@ Calculate circumference from radius, diameter, or area. Reverse-calculate any ci
 ### 🌐 [Compound Interest Calculator](https://ganak.app/calculators/compound-interest-calculator/)
 
 Calculate compound interest with annual, quarterly, monthly, daily, or continuous compounding. See how your money grows over time with interactive charts.
+
+### 🌐 [Derivative Calculator](https://ganak.app/calculators/derivative-calculator/)
+
+Free derivative calculator with step-by-step solutions. Compute derivatives of polynomials, trig, exponential, and log functions with interactive graph.
 
 ### 🌐 [Exponent Calculator](https://ganak.app/calculators/exponent-calculator/)
 
@@ -1826,4 +1830,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-01 · 413 calculators</sub>
+<sub>Last updated: 2026-04-01 · 414 calculators</sub>
