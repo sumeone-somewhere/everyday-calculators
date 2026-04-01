@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **414+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **415+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -26,7 +26,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [12 calculators](https://ganak.app/calculators/category/salary/)
-- [🏖️ Retirement](#retirement) — [4 calculators](https://ganak.app/calculators/category/retirement/)
+- [🏖️ Retirement](#retirement) — [5 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [27 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
@@ -587,6 +587,10 @@ Free paycheck calculator for all 50 US states. Calculate take-home pay with fede
 ### 🌐 [Retirement Calculator](https://ganak.app/calculators/retirement-calculator/)
 
 Free retirement calculator to project your corpus, sustainable monthly income, and savings timeline. Covers the 4% rule and inflation-adjusted withdrawals.
+
+### 🌐 [RMD Calculator](https://ganak.app/calculators/us/rmd-calculator/)
+
+Calculate your Required Minimum Distribution (RMD) using IRS Uniform Lifetime Table III. Updated for SECURE 2.0 Act with multi-year projections and tax estimates.
 
 ### 🇺🇸 [401(k) Retirement Calculator](https://ganak.app/calculators/us/401k-retirement-calculator/)
 
@@ -1830,4 +1834,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-01 · 414 calculators</sub>
+<sub>Last updated: 2026-04-01 · 415 calculators</sub>
