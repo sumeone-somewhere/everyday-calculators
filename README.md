@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **415+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **416+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [12 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [5 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [27 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [28 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
@@ -715,6 +715,10 @@ Calculate waist-to-height ratio (WHtR) and check health risk. Better than BMI fo
 ### 🌐 [Water Intake Calculator](https://ganak.app/calculators/water-intake-calculator/)
 
 Calculate daily water intake based on weight, activity, and climate. Get a personalized hydration schedule in glasses, liters, and ounces with hourly plan.
+
+### 🌐 [Weight Loss Calculator](https://ganak.app/calculators/weight-loss-calculator/)
+
+Free weight loss calculator. Enter your details and goal weight to get a personalized calorie target, timeline, weight loss percentage, and weekly milestones.
 
 [⬆ Back to contents](#contents)
 
@@ -1834,4 +1838,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-01 · 415 calculators</sub>
+<sub>Last updated: 2026-04-01 · 416 calculators</sub>
