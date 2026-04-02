@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **417+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **419+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -26,7 +26,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [12 calculators](https://ganak.app/calculators/category/salary/)
-- [🏖️ Retirement](#retirement) — [5 calculators](https://ganak.app/calculators/category/retirement/)
+- [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [28 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
@@ -588,6 +588,10 @@ Free paycheck calculator for all 50 US states. Calculate take-home pay with fede
 
 ## 🏖️ [Retirement](https://ganak.app/calculators/category/retirement/)
 
+### 🌐 [Annuity Calculator](https://ganak.app/calculators/annuity-calculator/)
+
+Calculate annuity payments, future value, or required principal. Supports ordinary and annuity-due, all payment frequencies, with year-by-year schedule and formula breakdown.
+
 ### 🌐 [Retirement Calculator](https://ganak.app/calculators/retirement-calculator/)
 
 Free retirement calculator to project your corpus, sustainable monthly income, and savings timeline. Covers the 4% rule and inflation-adjusted withdrawals.
@@ -603,6 +607,10 @@ Calculate your Required Minimum Distribution (RMD) using IRS Uniform Lifetime Ta
 ### 🇺🇸 [Roth IRA Calculator](https://ganak.app/calculators/us/roth-ira-calculator/)
 
 Free Roth IRA calculator. Project tax-free growth, check income eligibility, compare Roth vs Traditional IRA, and see catch-up contributions at age 50+.
+
+### 🇺🇸 [Social Security Calculator](https://ganak.app/calculators/us/social-security-calculator/)
+
+Free 2026 Social Security estimator. Estimate monthly benefits at 62, FRA, or 70 using the current PIA formula and bend points. Break-even analysis, spousal benefits, and tax impact.
 
 ### 🇬🇧 [UK Pension Calculator](https://ganak.app/calculators/uk/pension-calculator/)
 
@@ -1842,4 +1850,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-02 · 417 calculators</sub>
+<sub>Last updated: 2026-04-02 · 419 calculators</sub>
