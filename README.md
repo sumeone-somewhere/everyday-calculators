@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **416+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **417+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [36 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [37 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -107,6 +107,10 @@ Free log calculator for any base. Compute logarithms, anti-logs, and change of b
 ### 🌐 [Long Division Calculator](https://ganak.app/calculators/long-division-calculator/)
 
 Free long division calculator with step-by-step work. See quotient, remainder, decimal form with repeating detection, and visual solution.
+
+### 🌐 [Matrix Calculator](https://ganak.app/calculators/matrix-calculator/)
+
+Free matrix calculator. Multiply matrices, find determinants, inverses, transpose, RREF, rank, and eigenvalues for 2×2, 3×3, and 4×4 matrices.
 
 ### 🌐 [Mean Calculator](https://ganak.app/calculators/mean-calculator/)
 
@@ -1838,4 +1842,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-01 · 416 calculators</sub>
+<sub>Last updated: 2026-04-02 · 417 calculators</sub>
