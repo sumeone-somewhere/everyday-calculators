@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **422+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **423+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -25,7 +25,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
-- [💵 Salary](#salary) — [12 calculators](https://ganak.app/calculators/category/salary/)
+- [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [30 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
@@ -547,6 +547,10 @@ Calculate your 2026 BAH rate by ZIP code, pay grade, and dependency status. Comp
 ### 🌐 [Commission Calculator](https://ganak.app/calculators/commission-calculator/)
 
 Free commission calculator. Calculate sales commission with flat rate, tiered brackets, or agent/broker splits. See total earnings and per-sale breakdown.
+
+### 🌐 [Cost of Living Calculator](https://ganak.app/calculators/cost-of-living-calculator/)
+
+Free global cost of living calculator comparing 400+ cities across 100+ countries. See equivalent salary, monthly expenses by category, and housing, grocery, transportation differences for your household.
 
 ### 🌐 [Hourly to Salary Calculator](https://ganak.app/calculators/hourly-to-salary-calculator/)
 
@@ -1862,4 +1866,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-03 · 422 calculators</sub>
+<sub>Last updated: 2026-04-03 · 423 calculators</sub>
