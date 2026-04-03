@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **419+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **421+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -20,14 +20,14 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 ## Contents
 
 - [🔢 Math](#math) — [37 calculators](https://ganak.app/calculators/category/math/)
-- [📈 Investment](#investment) — [16 calculators](https://ganak.app/calculators/category/investment/)
+- [📈 Investment](#investment) — [17 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [12 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [28 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [29 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
@@ -215,6 +215,10 @@ Estimate dividend income, DRIP growth, and yield on cost with dividend and price
 ### 🌐 [FIRE Calculator](https://ganak.app/calculators/fire-calculator/)
 
 Calculate your FIRE number for financial independence. See Lean, Fat, Coast & Barista FIRE targets with projections, savings rate, and milestone timeline.
+
+### 🌐 [Future Value Calculator](https://ganak.app/calculators/future-value-calculator/)
+
+Calculate future value of a lump sum or recurring deposits with compound interest. 6 compounding options, inflation adjustment, growth chart, and year-by-year breakdown.
 
 ### 🌐 [HLV Calculator](https://ganak.app/calculators/hlv-calculator/)
 
@@ -655,6 +659,10 @@ Free calorie deficit calculator. Enter stats and goal weight to get daily calori
 ### 🌐 [CHA₂DS₂-VASc Calculator](https://ganak.app/calculators/chadsvasc-calculator/)
 
 Free CHA₂DS₂-VASc calculator for AF stroke risk. Get score, annual stroke rate, and anticoagulation guidance per 2023 ACC/AHA. Includes HAS-BLED.
+
+### 🌐 [Conception Calculator](https://ganak.app/calculators/conception-calculator/)
+
+Free conception date calculator. Estimate when you conceived using your last period, due date, ultrasound, or birth date. Shows the fertile window.
 
 ### 🌐 [Creatinine Clearance Calculator](https://ganak.app/calculators/creatinine-clearance-calculator/)
 
@@ -1850,4 +1858,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-02 · 419 calculators</sub>
+<sub>Last updated: 2026-04-03 · 421 calculators</sub>
