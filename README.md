@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **421+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **422+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [12 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [29 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [30 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
@@ -627,6 +627,10 @@ Free UK pension calculator. Estimate retirement income from workplace and State 
 ### 🌐 [A1C Calculator](https://ganak.app/calculators/a1c-calculator/)
 
 Convert A1C to average glucose (eAG), estimate GMI and fructosamine. Includes mg/dL to mmol/L conversion, charts, and A1C range interpretation.
+
+### 🌐 [ASCVD Risk Calculator](https://ganak.app/calculators/ascvd-risk-calculator/)
+
+Free ASCVD risk calculator using the 2013 Pooled Cohort Equations. Estimate your 10-year heart attack and stroke risk, heart age, lifetime risk, and what-if scenarios for risk reduction.
 
 ### 🌐 [BAC Calculator](https://ganak.app/calculators/bac-calculator/)
 
@@ -1858,4 +1862,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-03 · 421 calculators</sub>
+<sub>Last updated: 2026-04-03 · 422 calculators</sub>
