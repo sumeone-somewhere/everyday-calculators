@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **425+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **426+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -40,7 +40,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🎲 Fun](#fun) — [3 calculators](https://ganak.app/calculators/category/fun/)
 - [🔮 Spirituality](#spirituality) — [16 calculators](https://ganak.app/calculators/category/spirituality/)
 - [🎯 Probability](#probability) — [3 calculators](https://ganak.app/calculators/category/probability/)
-- [👗 Styling](#styling) — [8 calculators](https://ganak.app/calculators/category/styling/)
+- [👗 Styling](#styling) — [9 calculators](https://ganak.app/calculators/category/styling/)
 - [🏛️ Government Schemes](#government-schemes) — [4 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
@@ -1744,6 +1744,10 @@ Free clothing size converter for women's, men's, and kids'. Convert between US, 
 
 Free dress size calculator. Enter bust, waist, and hip measurements to find your size in US, UK, EU, AU & IT systems. Includes plus sizes.
 
+### 🌐 [Face Shape Calculator](https://ganak.app/calculators/face-shape-calculator/)
+
+Free face shape calculator. Enter four facial measurements to identify your face shape with confidence score. Get hairstyle, glasses, and accessory recommendations.
+
 ### 🌐 [Ring Size Calculator](https://ganak.app/calculators/ring-size-calculator/)
 
 Free ring size calculator for US, UK, EU, Indian, and Japanese systems. Convert sizes using circumference or diameter in mm or inches. Full size chart included.
@@ -1874,4 +1878,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-04 · 425 calculators</sub>
+<sub>Last updated: 2026-04-04 · 426 calculators</sub>
