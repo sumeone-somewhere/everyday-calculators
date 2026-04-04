@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **424+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **425+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -29,7 +29,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [30 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
-- [📅 Date & Time](#date-time) — [14 calculators](https://ganak.app/calculators/category/date-and-time/)
+- [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
@@ -779,6 +779,10 @@ Add or subtract years, months, weeks, or days from any date. Calculate deadlines
 ### 🌐 [Age Calculator](https://ganak.app/calculators/age-calculator/)
 
 Calculate your exact age in years, months, weeks, and days from your birth date. Find total days lived, birthday countdown, zodiac sign, and generation.
+
+### 🌐 [Age Difference Calculator](https://ganak.app/calculators/age-difference-calculator/)
+
+Calculate the exact age difference between two people in years, months, days, weeks, and hours. Includes zodiac signs, generation labels, and fun facts.
 
 ### 🌐 [Birthday Calculator](https://ganak.app/calculators/birthday-calculator/)
 
@@ -1870,4 +1874,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-04 · 424 calculators</sub>
+<sub>Last updated: 2026-04-04 · 425 calculators</sub>
