@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **428+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **429+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [38 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [39 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [17 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -167,6 +167,10 @@ Round numbers to any decimal place or significant figures. Supports 9 rounding m
 ### 🌐 [Sample Size Calculator](https://ganak.app/calculators/sample-size-calculator/)
 
 Free sample size calculator for surveys, A/B tests, and statistical studies. Find the minimum sample size using Cochran's formula with confidence level, margin of error, and power analysis.
+
+### 🌐 [Significant Figures Calculator](https://ganak.app/calculators/sig-fig-calculator/)
+
+Free significant figures calculator. Count sig figs in any number, round to N significant figures, or perform arithmetic with proper sig fig rules. Step-by-step explanations.
 
 ### 🌐 [Simple Interest Calculator](https://ganak.app/calculators/simple-interest-calculator/)
 
@@ -1886,4 +1890,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-04 · 428 calculators</sub>
+<sub>Last updated: 2026-04-04 · 429 calculators</sub>
