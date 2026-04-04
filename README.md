@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **423+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **424+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -41,7 +41,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [🔮 Spirituality](#spirituality) — [16 calculators](https://ganak.app/calculators/category/spirituality/)
 - [🎯 Probability](#probability) — [3 calculators](https://ganak.app/calculators/category/probability/)
 - [👗 Styling](#styling) — [8 calculators](https://ganak.app/calculators/category/styling/)
-- [🏛️ Government Schemes](#government-schemes) — [3 calculators](https://ganak.app/calculators/category/government-schemes/)
+- [🏛️ Government Schemes](#government-schemes) — [4 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
@@ -1760,6 +1760,10 @@ Free tablecloth size calculator. Enter table dimensions and drop style to find t
 
 ## 🏛️ [Government Schemes](https://ganak.app/calculators/category/government-schemes/)
 
+### 🇮🇳 [EPF Calculator](https://ganak.app/calculators/india/epf-calculator/)
+
+Free EPF calculator for India. Estimate maturity amount, interest earned, employer contribution split, and EPS pension. Includes VPF, salary growth, and year-by-year breakdown.
+
 ### 🇮🇳 [NPS Calculator](https://ganak.app/calculators/india/nps-calculator/)
 
 Calculate NPS retirement corpus, monthly pension, and lump sum. Estimate returns with step-up SIP and tax savings under Section 80CCD(1B).
@@ -1866,4 +1870,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-03 · 423 calculators</sub>
+<sub>Last updated: 2026-04-04 · 424 calculators</sub>
