@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **427+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **428+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [37 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [38 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [17 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -163,6 +163,10 @@ Find the original price before a percentage was added or removed. Calculate pre-
 ### 🌐 [Rounding Calculator](https://ganak.app/calculators/rounding-calculator/)
 
 Round numbers to any decimal place or significant figures. Supports 9 rounding modes including banker's rounding. Compare results across methods.
+
+### 🌐 [Sample Size Calculator](https://ganak.app/calculators/sample-size-calculator/)
+
+Free sample size calculator for surveys, A/B tests, and statistical studies. Find the minimum sample size using Cochran's formula with confidence level, margin of error, and power analysis.
 
 ### 🌐 [Simple Interest Calculator](https://ganak.app/calculators/simple-interest-calculator/)
 
@@ -1882,4 +1886,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-04 · 427 calculators</sub>
+<sub>Last updated: 2026-04-04 · 428 calculators</sub>
