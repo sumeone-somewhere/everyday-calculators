@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **432+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **433+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [30 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [20 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [21 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -903,6 +903,10 @@ Free roofing calculator. Estimate roof area from building dimensions and pitch f
 ### 🌐 [Room Square Footage Calculator](https://ganak.app/calculators/room-square-footage-calculator/)
 
 Calculate room or floor area in square feet for flooring, carpet, tile, and paint projects. Enter length and width to get instant area with conversions.
+
+### 🌐 [Sand Calculator](https://ganak.app/calculators/sand-calculator/)
+
+Estimate how much sand you need in tons, cubic yards, and bags. Supports 12 sand types, 3 area shapes, project presets, and cost estimation for sandboxes, pavers, pools, and more.
 
 ### 🌐 [Septic Tank Size Calculator](https://ganak.app/calculators/septic-tank-size-calculator/)
 
@@ -1902,4 +1906,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-05 · 432 calculators</sub>
+<sub>Last updated: 2026-04-05 · 433 calculators</sub>
