@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **430+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **431+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -43,7 +43,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [👗 Styling](#styling) — [9 calculators](https://ganak.app/calculators/category/styling/)
 - [🏛️ Government Schemes](#government-schemes) — [4 calculators](https://ganak.app/calculators/category/government-schemes/)
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
-- [📌 Food](#food) — [1 calculator](https://ganak.app/calculators/category/food/)
+- [📌 Food](#food) — [2 calculators](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
 - [📌 Science](#science) — [4 calculators](https://ganak.app/calculators/category/science/)
 - [📌 Legal](#legal) — [1 calculator](https://ganak.app/calculators/category/legal/)
@@ -1836,6 +1836,10 @@ Free electricity bill calculator for India with state-wise tariff slabs for 19 s
 
 Free ABV calculator for beer, wine, mead, and cocktails. Calculate alcohol by volume from OG/FG in SG, Plato, or Brix. Includes cocktail mixer and proof.
 
+### 🌐 [Shelf Life Calculator](https://ganak.app/calculators/shelf-life-calculator/)
+
+Free shelf life calculator. Find expiry dates, check remaining shelf life percentage, or calculate duration. Built-in database of 45+ food and medicine items.
+
 [⬆ Back to contents](#contents)
 
 ## 📌 [Tools](https://ganak.app/calculators/category/tools/)
@@ -1894,4 +1898,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-04 · 430 calculators</sub>
+<sub>Last updated: 2026-04-05 · 431 calculators</sub>
