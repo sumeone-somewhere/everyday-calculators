@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **431+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **432+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -20,7 +20,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 ## Contents
 
 - [🔢 Math](#math) — [40 calculators](https://ganak.app/calculators/category/math/)
-- [📈 Investment](#investment) — [17 calculators](https://ganak.app/calculators/category/investment/)
+- [📈 Investment](#investment) — [18 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
@@ -223,6 +223,10 @@ Calculate CAGR for any investment. 4 modes: find CAGR, project end value, find s
 ### 🌐 [Dividend Calculator](https://ganak.app/calculators/dividend-calculator/)
 
 Estimate dividend income, DRIP growth, and yield on cost with dividend and price growth plus contributions.
+
+### 🌐 [Enterprise Value Calculator](https://ganak.app/calculators/enterprise-value-calculator/)
+
+Calculate Enterprise Value (EV) with 3 modes: basic (market cap + debt − cash), detailed (preferred stock & minority interest), and EBITDA multiple. Includes EV/EBITDA ratio, net debt, and equity value breakdown.
 
 ### 🌐 [FIRE Calculator](https://ganak.app/calculators/fire-calculator/)
 
@@ -1898,4 +1902,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-05 · 431 calculators</sub>
+<sub>Last updated: 2026-04-05 · 432 calculators</sub>
