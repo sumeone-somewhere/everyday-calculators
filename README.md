@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **434+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **435+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -28,7 +28,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [30 calculators](https://ganak.app/calculators/category/health/)
-- [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
+- [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [22 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
@@ -767,6 +767,10 @@ Free weight loss calculator. Enter your details and goal weight to get a persona
 [⬆ Back to contents](#contents)
 
 ## 🏋️ [Fitness](https://ganak.app/calculators/category/fitness/)
+
+### 🌐 [DOTS Calculator](https://ganak.app/calculators/dots-calculator/)
+
+Free DOTS calculator for powerlifting. Enter body weight, gender & total to get your DOTS score with optional age adjustment. Compare lifters across weight classes.
 
 ### 🌐 [One Rep Max Calculator](https://ganak.app/calculators/one-rep-max-calculator/)
 
@@ -1910,4 +1914,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-06 · 434 calculators</sub>
+<sub>Last updated: 2026-04-06 · 435 calculators</sub>
