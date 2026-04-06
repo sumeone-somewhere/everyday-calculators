@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **433+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **434+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [30 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [4 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [21 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [22 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -859,6 +859,10 @@ Estimate asphalt tonnage, volume, and cost for driveways, roads, and parking lot
 ### 🌐 [Brick Calculator](https://ganak.app/calculators/brick-calculator/)
 
 Free brick calculator. Enter wall dimensions to get brick count, mortar, sand, weight, and cost. Supports 8 brick sizes with waste factor and openings.
+
+### 🌐 [Concrete Block Calculator](https://ganak.app/calculators/concrete-block-calculator/)
+
+Free concrete block calculator. Estimate block count, mortar, grout fill, wall area, and material cost for CMU walls with openings, waste, and imperial or metric units.
 
 ### 🌐 [Concrete Calculator](https://ganak.app/calculators/concrete-calculator/)
 
@@ -1906,4 +1910,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-05 · 433 calculators</sub>
+<sub>Last updated: 2026-04-06 · 434 calculators</sub>
