@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **435+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **436+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -45,7 +45,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [2 calculators](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
-- [📌 Science](#science) — [4 calculators](https://ganak.app/calculators/category/science/)
+- [📌 Science](#science) — [5 calculators](https://ganak.app/calculators/category/science/)
 - [📌 Legal](#legal) — [1 calculator](https://ganak.app/calculators/category/legal/)
 
 ---
@@ -1880,6 +1880,10 @@ Free online JSON converter. Format, beautify, minify, and validate JSON. Convert
 
 Calculate dilutions using C₁V₁=C₂V₂, serial dilution tables, ratio-based (1:X), and percent modes. Supports M, mM, µM, mg/mL, ppm, and % units with step-by-step formulas.
 
+### 🌐 [Flow Rate Calculator](https://ganak.app/calculators/flow-rate-calculator/)
+
+Calculate volumetric flow rate from pipe diameter and velocity (Q=Av) or volume and time (Q=V/t). Dedicated mass flow mode computes mass rate from density. Supports GPM, LPM, CFM, mL/hr, and 11 unit conversions with step-by-step solutions.
+
 ### 🌐 [Hardy Weinberg Equilibrium Calculator](https://ganak.app/calculators/hardy-weinberg-calculator/)
 
 Calculate Hardy-Weinberg equilibrium genotype frequencies (p², 2pq, q²), carrier rates, and chi-square test. Enter allele frequencies, genotype counts, or disease prevalence.
@@ -1914,4 +1918,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-06 · 435 calculators</sub>
+<sub>Last updated: 2026-04-07 · 436 calculators</sub>
