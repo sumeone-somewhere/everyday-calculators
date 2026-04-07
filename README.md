@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **436+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **437+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -45,7 +45,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [2 calculators](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
-- [📌 Science](#science) — [5 calculators](https://ganak.app/calculators/category/science/)
+- [📌 Science](#science) — [6 calculators](https://ganak.app/calculators/category/science/)
 - [📌 Legal](#legal) — [1 calculator](https://ganak.app/calculators/category/legal/)
 
 ---
@@ -1896,6 +1896,10 @@ Calculate kinetic energy, mass, or velocity using KE = ½mv². Supports metric a
 
 Calculate molarity, mass, volume, or molecular weight of any solution. Includes dilution calculator (M₁V₁=M₂V₂), common compound library, and step-by-step formula breakdown.
 
+### 🌐 [Reynolds Number Calculator](https://ganak.app/calculators/reynolds-number-calculator/)
+
+Calculate Reynolds number for pipe flow, flat plates, and open channels. 15 fluid presets, bidirectional solving, friction factor, and visual flow regime gauge.
+
 [⬆ Back to contents](#contents)
 
 ## 📌 [Legal](https://ganak.app/calculators/category/legal/)
@@ -1918,4 +1922,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-07 · 436 calculators</sub>
+<sub>Last updated: 2026-04-07 · 437 calculators</sub>
