@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **437+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **438+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [30 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [31 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [22 calculators](https://ganak.app/calculators/category/construction/)
@@ -647,6 +647,10 @@ Free UK pension calculator. Estimate retirement income from workplace and State 
 ### 🌐 [A1C Calculator](https://ganak.app/calculators/a1c-calculator/)
 
 Convert A1C to average glucose (eAG), estimate GMI and fructosamine. Includes mg/dL to mmol/L conversion, charts, and A1C range interpretation.
+
+### 🌐 [Anion Gap Calculator](https://ganak.app/calculators/anion-gap-calculator/)
+
+Free anion gap calculator with albumin correction, delta-delta ratio, and urine AG. Supports standard and 4-ion formulas with instant clinical interpretation.
 
 ### 🌐 [ASCVD Risk Calculator](https://ganak.app/calculators/ascvd-risk-calculator/)
 
@@ -1922,4 +1926,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-07 · 437 calculators</sub>
+<sub>Last updated: 2026-04-07 · 438 calculators</sub>
