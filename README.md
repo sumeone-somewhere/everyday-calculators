@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **438+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **439+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -24,7 +24,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
-- [💼 Business](#business) — [11 calculators](https://ganak.app/calculators/category/business/)
+- [💼 Business](#business) — [12 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [31 calculators](https://ganak.app/calculators/category/health/)
@@ -551,6 +551,10 @@ Free timesheet calculator with weekly and biweekly support. Calculate work hours
 ### 🇺🇸 [PayPal Fee Calculator](https://ganak.app/calculators/paypal-fee-calculator/)
 
 Calculate PayPal fees for Goods & Services, invoices, QR codes, Venmo, and international transfers. See net amount received and what to charge clients.
+
+### 🇺🇸 [Venmo Fee Calculator](https://ganak.app/calculators/venmo-fee-calculator/)
+
+Calculate Venmo fees for Goods & Services, business profile, instant transfer, credit card, and crypto. See net amount, effective rate, and what to charge.
 
 [⬆ Back to contents](#contents)
 
@@ -1926,4 +1930,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-07 · 438 calculators</sub>
+<sub>Last updated: 2026-04-07 · 439 calculators</sub>
