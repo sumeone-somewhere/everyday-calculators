@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **439+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **440+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [31 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [22 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [23 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -947,6 +947,10 @@ Free square footage calculator for rooms, walls, and irregular shapes. Calculate
 ### 🌐 [Stair Calculator](https://ganak.app/calculators/stair-calculator/)
 
 Calculate stair dimensions instantly. Get riser height, tread depth, stringer length, stair angle, and building code compliance with an interactive diagram.
+
+### 🌐 [Stone Calculator](https://ganak.app/calculators/stone-calculator/)
+
+Free stone calculator. Estimate crushed stone, river rock, or gravel in tons, cubic yards, and bags. 12 stone types, 3 shapes, waste factor, and cost estimator.
 
 ### 🌐 [Wall Area Calculator](https://ganak.app/calculators/wall-area-calculator/)
 
@@ -1930,4 +1934,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-07 · 439 calculators</sub>
+<sub>Last updated: 2026-04-08 · 440 calculators</sub>
