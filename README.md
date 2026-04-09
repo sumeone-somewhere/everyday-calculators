@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **443+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **444+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [31 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [25 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [26 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -887,6 +887,10 @@ Free drywall calculator. Enter room dimensions to get sheets needed, joint compo
 ### 🌐 [Fence Calculator](https://ganak.app/calculators/fence-calculator/)
 
 Estimate fence materials, posts, pickets, and total cost. Compare wood, vinyl, chain link, and metal fencing with instant DIY or professional cost breakdown.
+
+### 🌐 [Flooring Calculator](https://ganak.app/calculators/flooring-calculator/)
+
+Free flooring calculator. Calculate square footage, boxes needed, and cost for 12 flooring types including laminate, vinyl plank, hardwood, and tile.
 
 ### 🌐 [Gravel Calculator](https://ganak.app/calculators/gravel-calculator/)
 
@@ -1946,4 +1950,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-09 · 443 calculators</sub>
+<sub>Last updated: 2026-04-09 · 444 calculators</sub>
