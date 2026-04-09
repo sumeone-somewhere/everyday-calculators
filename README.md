@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **441+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **443+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [31 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [24 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [25 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -45,7 +45,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [2 calculators](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
-- [📌 Science](#science) — [6 calculators](https://ganak.app/calculators/category/science/)
+- [📌 Science](#science) — [7 calculators](https://ganak.app/calculators/category/science/)
 - [📌 Legal](#legal) — [1 calculator](https://ganak.app/calculators/category/legal/)
 
 ---
@@ -891,6 +891,10 @@ Estimate fence materials, posts, pickets, and total cost. Compare wood, vinyl, c
 ### 🌐 [Gravel Calculator](https://ganak.app/calculators/gravel-calculator/)
 
 Estimate gravel tonnage, volume in yards, and cost for driveways, landscaping, and drainage. Supports pea gravel, crushed stone, river rock, and more.
+
+### 🌐 [Insulation Calculator](https://ganak.app/calculators/insulation-calculator/)
+
+Calculate how much insulation you need. Supports 10 insulation types (fiberglass, cellulose, spray foam, rigid board), 8 project areas with R-value presets, framing deductions, and cost estimation.
 
 ### 🌐 [Mulch Calculator](https://ganak.app/calculators/mulch-calculator/)
 
@@ -1912,6 +1916,10 @@ Calculate kinetic energy, mass, or velocity using KE = ½mv². Supports metric a
 
 Calculate molarity, mass, volume, or molecular weight of any solution. Includes dilution calculator (M₁V₁=M₂V₂), common compound library, and step-by-step formula breakdown.
 
+### 🌐 [pH Calculator](https://ganak.app/calculators/ph-calculator/)
+
+Free pH calculator. Calculate pH from hydrogen ion concentration, find pOH, solve buffer pH with Henderson-Hasselbalch equation. 40+ chemical presets, temperature-adjusted Kw, and step-by-step solutions.
+
 ### 🌐 [Reynolds Number Calculator](https://ganak.app/calculators/reynolds-number-calculator/)
 
 Calculate Reynolds number for pipe flow, flat plates, and open channels. 15 fluid presets, bidirectional solving, friction factor, and visual flow regime gauge.
@@ -1938,4 +1946,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-09 · 441 calculators</sub>
+<sub>Last updated: 2026-04-09 · 443 calculators</sub>
