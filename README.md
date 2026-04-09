@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **444+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **445+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -30,7 +30,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [❤️ Health](#health) — [31 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
-- [🏗️ Construction](#construction) — [26 calculators](https://ganak.app/calculators/category/construction/)
+- [🏗️ Construction](#construction) — [27 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
 - [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
@@ -911,6 +911,10 @@ Calculate total square footage for multiple rooms at once. Add rooms with quanti
 ### 🌐 [Paint Calculator](https://ganak.app/calculators/paint-calculator/)
 
 Free paint calculator. Enter room or house dimensions to get exact gallons needed, quart breakdown, primer estimate, and cost for any surface.
+
+### 🌐 [Pipe Weight Calculator](https://ganak.app/calculators/pipe-weight-calculator/)
+
+Free pipe weight calculator for round, square, and rectangular pipes. 17 materials, NPS schedule lookup, weight per meter and foot, water weight, and cost estimate.
 
 ### 🌐 [Pool Volume Calculator](https://ganak.app/calculators/pool-volume-calculator/)
 
@@ -1950,4 +1954,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-09 · 444 calculators</sub>
+<sub>Last updated: 2026-04-09 · 445 calculators</sub>
