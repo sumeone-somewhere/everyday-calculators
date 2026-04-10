@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **447+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **448+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -24,7 +24,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
 - [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
-- [💼 Business](#business) — [12 calculators](https://ganak.app/calculators/category/business/)
+- [💼 Business](#business) — [13 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [32 calculators](https://ganak.app/calculators/category/health/)
@@ -547,6 +547,10 @@ Calculate markup percentage, selling price, or cost price. Essential for retail,
 ### 🌐 [Net Profit Margin Calculator](https://ganak.app/calculators/net-profit-margin-calculator/)
 
 Calculate net profit margin from revenue and expenses. See gross, operating, and net margins side by side with industry benchmarks.
+
+### 🌐 [Pro Rata Calculator](https://ganak.app/calculators/pro-rata-calculator/)
+
+Free pro rata calculator. Calculate proportional salary, prorated rent, holiday entitlement, and insurance refunds. See breakdowns, daily rates, and share results instantly.
 
 ### 🌐 [Timesheet Calculator](https://ganak.app/calculators/timesheet-calculator/)
 
@@ -1962,4 +1966,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-10 · 447 calculators</sub>
+<sub>Last updated: 2026-04-10 · 448 calculators</sub>
