@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **446+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **447+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [12 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [31 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [32 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [27 calculators](https://ganak.app/calculators/category/construction/)
@@ -683,6 +683,10 @@ Calculate BMR and TDEE using Mifflin-St Jeor and Katch-McArdle equations. Get ca
 ### 🌐 [Body Fat Calculator](https://ganak.app/calculators/body-fat-calculator/)
 
 Free body fat calculator using U.S. Navy and BMI methods. Enter neck, waist, and hip measurements for body fat %, fat mass, lean mass, and fitness category.
+
+### 🌐 [Caffeine Half Life Calculator](https://ganak.app/calculators/caffeine-half-life-calculator/)
+
+Free caffeine half-life calculator. See how long caffeine stays in your body hour by hour with 24+ drink presets, metabolism types, decay chart, and sleep impact analysis.
 
 ### 🌐 [Calorie Calculator](https://ganak.app/calculators/calorie-calculator/)
 
@@ -1958,4 +1962,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-10 · 446 calculators</sub>
+<sub>Last updated: 2026-04-10 · 447 calculators</sub>
