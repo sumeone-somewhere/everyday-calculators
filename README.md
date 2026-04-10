@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **445+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **446+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [40 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [41 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [18 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -75,6 +75,10 @@ Free derivative calculator with step-by-step solutions. Compute derivatives of p
 ### 🌐 [Exponent Calculator](https://ganak.app/calculators/exponent-calculator/)
 
 Calculate any exponent with step-by-step solutions. Supports positive, negative, zero, and fractional exponents. Decimal and scientific notation.
+
+### 🌐 [Exponential Growth Calculator](https://ganak.app/calculators/exponential-growth-calculator/)
+
+Free exponential growth and decay calculator. Solve for final value, initial value, growth rate, or time. Supports discrete and continuous compounding with step-by-step formula, doubling time, and interactive growth curve chart.
 
 ### 🌐 [Factoring Calculator](https://ganak.app/calculators/factoring-calculator/)
 
@@ -1954,4 +1958,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-09 · 445 calculators</sub>
+<sub>Last updated: 2026-04-10 · 446 calculators</sub>
