@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **449+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **450+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -45,7 +45,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📦 Others](#others) — [7 calculators](https://ganak.app/calculators/category/others/)
 - [📌 Food](#food) — [2 calculators](https://ganak.app/calculators/category/food/)
 - [📌 Tools](#tools) — [3 calculators](https://ganak.app/calculators/category/tools/)
-- [📌 Science](#science) — [7 calculators](https://ganak.app/calculators/category/science/)
+- [📌 Science](#science) — [8 calculators](https://ganak.app/calculators/category/science/)
 - [📌 Legal](#legal) — [1 calculator](https://ganak.app/calculators/category/legal/)
 
 ---
@@ -1944,6 +1944,10 @@ Calculate molarity, mass, volume, or molecular weight of any solution. Includes 
 
 Free pH calculator. Calculate pH from hydrogen ion concentration, find pOH, solve buffer pH with Henderson-Hasselbalch equation. 40+ chemical presets, temperature-adjusted Kw, and step-by-step solutions.
 
+### 🌐 [Potential Energy Calculator](https://ganak.app/calculators/potential-energy-calculator/)
+
+Calculate gravitational, elastic, and electric potential energy. Solve for any variable with planetary presets, step-by-step solutions, and unit conversions.
+
 ### 🌐 [Reynolds Number Calculator](https://ganak.app/calculators/reynolds-number-calculator/)
 
 Calculate Reynolds number for pipe flow, flat plates, and open channels. 15 fluid presets, bidirectional solving, friction factor, and visual flow regime gauge.
@@ -1970,4 +1974,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-11 · 449 calculators</sub>
+<sub>Last updated: 2026-04-11 · 450 calculators</sub>
