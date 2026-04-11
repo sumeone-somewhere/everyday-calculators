@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **448+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **449+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -28,7 +28,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
 - [❤️ Health](#health) — [32 calculators](https://ganak.app/calculators/category/health/)
-- [🏋️ Fitness](#fitness) — [5 calculators](https://ganak.app/calculators/category/fitness/)
+- [🏋️ Fitness](#fitness) — [6 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [27 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
@@ -803,6 +803,10 @@ Free running pace calculator with race splits, finish time predictions, and pace
 ### 🌐 [Protein Intake Calculator](https://ganak.app/calculators/protein-intake-calculator/)
 
 Calculate your optimal daily protein intake based on body weight, activity level, and fitness goals. Get recommendations for muscle building and fat loss.
+
+### 🌐 [RPE Calculator](https://ganak.app/calculators/rpe-calculator/)
+
+Free RPE calculator for powerlifting. Enter weight, reps, and RPE to estimate your 1RM, generate a full RPE chart, and plan backoff sets with RIR support.
 
 ### 🌐 [VO2 Max Calculator](https://ganak.app/calculators/vo2-max-calculator/)
 
@@ -1966,4 +1970,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-10 · 448 calculators</sub>
+<sub>Last updated: 2026-04-11 · 449 calculators</sub>
