@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **450+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **451+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [13 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [32 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [33 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [6 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [27 calculators](https://ganak.app/calculators/category/construction/)
@@ -675,6 +675,10 @@ Free BAC calculator using the Widmark formula. Estimate blood alcohol content by
 ### 🌐 [Blood Pressure Calculator](https://ganak.app/calculators/blood-pressure-calculator/)
 
 Free blood pressure calculator with AHA classification, Mean Arterial Pressure (MAP), pulse pressure analysis, and hypertensive crisis detection. Home and clinic thresholds.
+
+### 🌐 [Blood Type Calculator](https://ganak.app/calculators/blood-type-calculator/)
+
+Free blood type calculator. Predict your child's blood type from parents using Punnett square genetics. See ABO and Rh factor probabilities, genotype breakdown, and transfusion compatibility chart.
 
 ### 🌐 [BMI Calculator](https://ganak.app/calculators/bmi-calculator/)
 
@@ -1974,4 +1978,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-11 · 450 calculators</sub>
+<sub>Last updated: 2026-04-11 · 451 calculators</sub>
