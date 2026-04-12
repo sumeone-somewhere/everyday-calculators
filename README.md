@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **453+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **454+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -32,7 +32,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [27 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
-- [🎓 Academic](#academic) — [10 calculators](https://ganak.app/calculators/category/academic/)
+- [🎓 Academic](#academic) — [11 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
 - [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
 - [🚗 Auto](#auto) — [4 calculators](https://ganak.app/calculators/category/auto/)
@@ -1592,6 +1592,10 @@ Free Indian land unit converter for 20+ units: Bigha, Gaj, Guntha, Cent, Katha, 
 
 ## 🎓 [Academic](https://ganak.app/calculators/category/academic/)
 
+### 🌐 [ACT Score Calculator](https://ganak.app/calculators/act-score-calculator/)
+
+Free ACT score calculator for the Enhanced ACT (2025+). Convert raw scores to scaled scores (1-36) for English, Math, and Reading. Composite score, percentiles, and college benchmarks. Legacy ACT mode included.
+
 ### 🌐 [ATAR Calculator](https://ganak.app/calculators/atar-calculator/)
 
 Free VCE ATAR calculator with approximate subject scaling. Enter your study scores to estimate your Australian Tertiary Admission Rank, view aggregate breakdown, and check university entry benchmarks. Rough estimates also available for HSC, QCE, WACE, and SACE.
@@ -1986,4 +1990,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-12 · 453 calculators</sub>
+<sub>Last updated: 2026-04-12 · 454 calculators</sub>
