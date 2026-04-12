@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **456+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **457+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [43 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [44 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [18 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -83,6 +83,10 @@ Free exponential growth and decay calculator. Solve for final value, initial val
 ### 🌐 [Factoring Calculator](https://ganak.app/calculators/factoring-calculator/)
 
 Free factoring calculator. Factor quadratic, cubic, and quartic polynomials step by step. Also find prime factorization and factor pairs of any number.
+
+### 🌐 [Fibonacci Calculator](https://ganak.app/calculators/fibonacci-calculator/)
+
+Free Fibonacci calculator: find the nth Fibonacci number, generate sequences, or check if a number is Fibonacci. Supports Lucas numbers, negative indices, BigInt precision up to F(10,000), and golden ratio convergence.
 
 ### 🌐 [Fraction Calculator](https://ganak.app/calculators/fraction-calculator/)
 
@@ -1998,4 +2002,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-12 · 456 calculators</sub>
+<sub>Last updated: 2026-04-12 · 457 calculators</sub>
