@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **454+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **455+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [41 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [42 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [18 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -99,6 +99,10 @@ Free integral calculator with step-by-step solutions. Compute indefinite and def
 ### 🌐 [Interest Rate Calculator](https://ganak.app/calculators/interest-rate-calculator/)
 
 Calculate interest rate, monthly payment, loan amount, or term for any fixed-rate loan. See total interest, amortization schedule, and rate comparisons.
+
+### 🌐 [IQR Calculator](https://ganak.app/calculators/iqr-calculator/)
+
+Free IQR calculator. Enter data to find interquartile range, Q1, Q3, five-number summary, and outliers. Step-by-step solution with box plot visualization.
 
 ### 🌐 [LCM Calculator](https://ganak.app/calculators/lcm-calculator/)
 
@@ -1990,4 +1994,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-12 · 454 calculators</sub>
+<sub>Last updated: 2026-04-12 · 455 calculators</sub>
