@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **452+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **453+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -23,7 +23,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📈 Investment](#investment) — [18 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
-- [🧾 Tax](#tax) — [23 calculators](https://ganak.app/calculators/category/tax/)
+- [🧾 Tax](#tax) — [24 calculators](https://ganak.app/calculators/category/tax/)
 - [💼 Business](#business) — [13 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
@@ -423,6 +423,10 @@ Free UK inheritance tax calculator. Estimate IHT on your estate with nil-rate ba
 ### 🌐 [Stamp Duty Calculator AU](https://ganak.app/calculators/au/stamp-duty-calculator/)
 
 Calculate stamp duty for all Australian states. Covers property and vehicle purchases with first home buyer concessions and state-by-state comparison.
+
+### 🇺🇸 [1031 Exchange Calculator](https://ganak.app/calculators/us/1031-exchange-calculator/)
+
+Free 1031 exchange calculator. Estimate capital gains tax savings, calculate boot on partial exchanges, and track 45/180-day deadlines. Compare selling vs exchanging.
 
 ### 🇮🇳 [Capital Gains Tax Calculator](https://ganak.app/calculators/india/capital-gains-tax-calculator/)
 
@@ -1982,4 +1986,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-11 · 452 calculators</sub>
+<sub>Last updated: 2026-04-12 · 453 calculators</sub>
