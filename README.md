@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **455+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **456+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [42 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [43 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [18 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -203,6 +203,10 @@ Calculate square roots, cube roots, and nth roots. Simplify radicals to exact fo
 ### 🌐 [Standard Deviation Calculator](https://ganak.app/calculators/standard-deviation-calculator/)
 
 Calculate population and sample standard deviation, variance, quartiles, and Z-scores. Step-by-step formulas with distribution histogram. Free statistics tool.
+
+### 🌐 [Synthetic Division Calculator](https://ganak.app/calculators/synthetic-division-calculator/)
+
+Free synthetic division calculator with step-by-step solutions. Divide polynomials by (x − c), find quotient and remainder, and verify with the Remainder Theorem.
 
 ### 🌐 [Triangle Calculator](https://ganak.app/calculators/triangle-calculator/)
 
@@ -1994,4 +1998,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-12 · 455 calculators</sub>
+<sub>Last updated: 2026-04-12 · 456 calculators</sub>
