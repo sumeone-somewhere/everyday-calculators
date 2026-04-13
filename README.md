@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **458+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **459+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -32,7 +32,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [27 calculators](https://ganak.app/calculators/category/construction/)
 - [🔄 Converters](#converters) — [146 calculators](https://ganak.app/calculators/category/converters/)
-- [🎓 Academic](#academic) — [11 calculators](https://ganak.app/calculators/category/academic/)
+- [🎓 Academic](#academic) — [12 calculators](https://ganak.app/calculators/category/academic/)
 - [🎨 Design](#design) — [3 calculators](https://ganak.app/calculators/category/design/)
 - [💻 Tech](#tech) — [6 calculators](https://ganak.app/calculators/category/tech/)
 - [🚗 Auto](#auto) — [4 calculators](https://ganak.app/calculators/category/auto/)
@@ -1644,6 +1644,10 @@ Calculate exam scores with negative marking for GATE, JEE, NEET, UPSC, and banki
 
 Convert percentage to CGPA using 10-point, 4.0, or 5-point scales. Supports custom conversion factors for universities. Formula: CGPA = Percentage / factor.
 
+### 🌐 [PSAT Score Calculator](https://ganak.app/calculators/psat-score-calculator/)
+
+Estimate Digital PSAT scaled scores from raw correct answers for PSAT/NMSQT, PSAT 10, and PSAT 8/9. Selection Index, National Merit cutoffs, SAT equivalent, and percentiles.
+
 ### 🌐 [SAT Score Calculator](https://ganak.app/calculators/sat-score-calculator/)
 
 Convert Digital SAT raw scores to estimated scaled scores (400-1600). Enter correct answers for Reading & Writing and Math for predicted score and percentile.
@@ -2006,4 +2010,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-13 · 458 calculators</sub>
+<sub>Last updated: 2026-04-13 · 459 calculators</sub>
