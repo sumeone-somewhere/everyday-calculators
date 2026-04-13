@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **457+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **458+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -19,7 +19,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 
 ## Contents
 
-- [🔢 Math](#math) — [44 calculators](https://ganak.app/calculators/category/math/)
+- [🔢 Math](#math) — [45 calculators](https://ganak.app/calculators/category/math/)
 - [📈 Investment](#investment) — [18 calculators](https://ganak.app/calculators/category/investment/)
 - [💰 Savings](#savings) — [7 calculators](https://ganak.app/calculators/category/savings/)
 - [🏦 Loans & EMI](#loans-emi) — [21 calculators](https://ganak.app/calculators/category/loans-and-emi/)
@@ -163,6 +163,10 @@ Free Pythagorean theorem calculator. Enter any 2 sides to find the missing side,
 ### 🌐 [Quadratic Formula Calculator](https://ganak.app/calculators/quadratic-formula-calculator/)
 
 Solve any quadratic equation (ax² + bx + c = 0). Find roots, discriminant, vertex, and parabola graph with steps. Real and complex roots.
+
+### 🌐 [Quartile Calculator](https://ganak.app/calculators/quartile-calculator/)
+
+Free quartile calculator. Enter data to find Q1, Q2, Q3, five-number summary, IQR, and percentiles. Compare 3 methods with step-by-step solution and box plot.
 
 ### 🌐 [Ratio Calculator](https://ganak.app/calculators/ratio-calculator/)
 
@@ -2002,4 +2006,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-12 · 457 calculators</sub>
+<sub>Last updated: 2026-04-13 · 458 calculators</sub>
