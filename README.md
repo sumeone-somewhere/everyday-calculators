@@ -2,7 +2,7 @@
 
 [![Ganak — Calculations Done, Right](https://ganak.app/opengraph-image.png)](https://ganak.app)
 
-A directory of **459+ free online calculators** for math, finance, health, education, and more — no sign-up required.
+A directory of **460+ free online calculators** for math, finance, health, education, and more — no sign-up required.
 
 All calculators are free to use at [ganak.app](https://ganak.app).
 
@@ -27,7 +27,7 @@ Most calculator sites are cluttered with ads or force you to create an account. 
 - [💼 Business](#business) — [13 calculators](https://ganak.app/calculators/category/business/)
 - [💵 Salary](#salary) — [13 calculators](https://ganak.app/calculators/category/salary/)
 - [🏖️ Retirement](#retirement) — [7 calculators](https://ganak.app/calculators/category/retirement/)
-- [❤️ Health](#health) — [33 calculators](https://ganak.app/calculators/category/health/)
+- [❤️ Health](#health) — [34 calculators](https://ganak.app/calculators/category/health/)
 - [🏋️ Fitness](#fitness) — [7 calculators](https://ganak.app/calculators/category/fitness/)
 - [📅 Date & Time](#date-time) — [15 calculators](https://ganak.app/calculators/category/date-and-time/)
 - [🏗️ Construction](#construction) — [27 calculators](https://ganak.app/calculators/category/construction/)
@@ -791,6 +791,10 @@ Free QTc calculator using Bazett, Fridericia, Framingham, Hodges & Rautaharju. E
 ### 🌐 [Sleep Calculator](https://ganak.app/calculators/sleep-calculator/)
 
 Calculate optimal bedtime and wake-up times based on 90-minute sleep cycles. Get sleep quality score, nap recommendations, and age-based sleep guidelines.
+
+### 🌐 [Sleep Debt Calculator](https://ganak.app/calculators/sleep-debt-calculator/)
+
+Free sleep debt calculator. Log your daily sleep, get age-based recommendations (NSF guidelines), calculate weekly sleep debt, efficiency score, and a personalized recovery plan.
 
 ### 🌐 [TDEE Calculator](https://ganak.app/calculators/tdee-calculator/)
 
@@ -2010,4 +2014,4 @@ Have an idea for a calculator that should exist? [Open an issue](../../issues) a
 
 ---
 
-<sub>Last updated: 2026-04-13 · 459 calculators</sub>
+<sub>Last updated: 2026-04-14 · 460 calculators</sub>
